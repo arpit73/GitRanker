@@ -1,17 +1,4 @@
-const express = require('express');
-const bodyParser = require('body-parser');
+const { getAuthor } = require('./Authors/getAuthor');
 
-const port = process.env.PORT || 5000;
+console.log(getAuthor('arpit73'));
 
-var app = express();
-
-app.use(bodyParser.json());
-
-
-
-app.listen(port, () => {
-    console.log(`Server up on port ${port}.`);
-});
-module.exports = {
-    app
-};
