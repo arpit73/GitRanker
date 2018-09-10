@@ -1,6 +1,6 @@
 const rp = require('request-promise');
 
-var options = {
+const options = {
     uri: `https://api.github.com/users/arpit73/repos`,
     headers: {
         'User-Agent': 'Request-Promise'
@@ -11,8 +11,21 @@ var options = {
 rp(options)
     .then(repos => {
         console.log(repos.length);
-        var num = repos[0].contributors_url;
-        console.log(num);
+        let newOptions = {
+            uri: `${repos[0].contributors_url}`,
+            headers: {
+                'User-Agent': 'Request-Promise'
+            },
+            json: true // Automatically parses the JSON string in the response
+        };
+        return newOptions;
+    })
+    .then(newOptions => {
+        let contributor = rp(newOptions);
+        return contributor;
+    })
+    .then(contributor => {
+        console.log(contributor[0].contributions);
     })
     .catch(err => {
         console.log('Error happened');
