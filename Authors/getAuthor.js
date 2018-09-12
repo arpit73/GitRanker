@@ -40,4 +40,4 @@ rp(options)
         console.log(err);
     });
 
-//console.log(Author);
+console.log(Author);
