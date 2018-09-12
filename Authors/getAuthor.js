@@ -17,6 +17,8 @@ let Team = {
 getAuthor = data => {
     data.forEach(registration => {
         let teamName = registration['Team Name'];
+        Team.teamName = teamName;
+
         let handles = [
             registration.git1,
             registration.git2,
@@ -38,22 +40,12 @@ getAuthor = data => {
             };
             request(options)
                 .then(repos => {
-                    let newOptions = options;
-                    newOptions.uri = repos[0].contributors_url;
-                    return newOptions;
-                })
-                .then(newOptions => {
-                    let contributor = request(newOptions);
-                    return contributor;
-                })
-                .then(contributor => {
-                    let total = 0;
-
-                    contributor.forEach(item => {
-                        total += item.contributions;
+                    repos.forEach(repo => {
+                        let newOptions = options;
+                        newOptions.uri = repo.contributors_url;
+                        let contributor = request(newOptions);
+                        let commits = contributor[0].contributions;
                     });
-
-                    Author.numberOfCommits = total;
                 })
                 .catch(err => {
                     console.log('Error Happened');
@@ -62,3 +54,5 @@ getAuthor = data => {
         });
     });
 };
+
+getAuthor(data);
