@@ -1,5 +1,5 @@
 const request = require('request-promise');
-const data = require('../Data/results.json');
+const data = require('../Data/results_test.json');
 
 // Schema for Storage
 let Team = {
@@ -39,7 +39,7 @@ getAuthor = data => {
             request(options)
                 .then(repos => {
                     let newOptions = options;
-                    newOptions.uri = repos[7].contributors_url;
+                    newOptions.uri = repos[0].contributors_url;
                     return newOptions;
                 })
                 .then(newOptions => {
