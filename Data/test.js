@@ -1,3 +1,4 @@
 const x = require('./results.json');
-
-console.log(x[0]);
+let str  = x[0].git1;
+str = str.slice(19, str.length);
+console.log(str);
