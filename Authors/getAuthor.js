@@ -1,5 +1,10 @@
 const rp = require('request-promise');
 
+let Author = {
+    numberOfRepos: 0,
+    numberOfCommits: 0
+};
+
 const options = {
     uri: `https://api.github.com/users/arpit73/repos`,
     headers: {
@@ -10,14 +15,10 @@ const options = {
 
 rp(options)
     .then(repos => {
-        console.log(repos.length);
-        let newOptions = {
-            uri: `${repos[0].contributors_url}`,
-            headers: {
-                'User-Agent': 'Request-Promise'
-            },
-            json: true // Automatically parses the JSON string in the response
-        };
+        Author.numberOfRepos = repos.length;
+
+        let newOptions = options;
+        newOptions.uri = repos[7].contributors_url;
         return newOptions;
     })
     .then(newOptions => {
@@ -25,9 +26,18 @@ rp(options)
         return contributor;
     })
     .then(contributor => {
-        console.log(contributor[0].contributions);
+        let total = 0;
+
+        contributor.forEach(item => {
+            total += item.contributions;
+        });
+
+        Author.numberOfCommits = total;
+        console.log(Author);
     })
     .catch(err => {
-        console.log('Error happened');
+        console.log('Error Happened');
         console.log(err);
     });
+
+//console.log(Author);
