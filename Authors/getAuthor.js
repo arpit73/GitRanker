@@ -30,8 +30,6 @@ getAuthor = data => {
         handles = handles.filter(handle => handle.length > 0);
         handles = handles.map(handle => handle.slice(19, handle.length));
 
-        console.log(handles);
-
         handles.forEach(handle => {
             let options = {
                 uri: `https://api.github.com/users/${handle}/repos`,
@@ -50,15 +48,14 @@ getAuthor = data => {
                         var newOptions = options;
                         var commits = 0;
                         newOptions.uri = repo.contributors_url;
-                        console.log(newOptions);
+                        //console.log(newOptions);
                         request(newOptions)
                             .then(contributor => {
-                                console.log(contributor);
+                                //console.log(contributor);
                                 contributor.forEach(item => {
                                     commits += item.contributions;
                                 });
                                 Team.commits[counter].numberOfCommits = commits;
-                                counter++;
                             })
                             .catch(err => {
                                 console.log(err);
@@ -69,6 +66,7 @@ getAuthor = data => {
                     console.log('Error Happened');
                     console.log(err);
                 });
+            counter++;
         });
         fs.appendFile('../Selections/logs.log', `${Team}\n`, err => {
             if (err) {
