@@ -43,7 +43,9 @@ getAuthor = data => {
             };
             request(options)
                 .then(repos => {
+                    console.log(Team);
                     Team.commits[counter].numberOfRepos = repos.length;
+                    console.log(Team);
                     repos.forEach(repo => {
                         var newOptions = options;
                         var commits = 0;
@@ -68,11 +70,7 @@ getAuthor = data => {
                 });
             counter++;
         });
-        fs.appendFile('../Selections/logs.log', `${Team}\n`, err => {
-            if (err) {
-                console.log('Unable to write log');
-            }
-        });
+        fs.appendFile('data.json', JSON.stringify(Team, null, 2) , 'utf-8');
     });
 };
 
