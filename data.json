@@ -1,1577 +1,1261 @@
-[
-    {
-        "teamName": "Coders",
-        "email": "Himanshuarora3097@gmail.com",
-        "commits": 222
-    },
-    {
-        "teamName": "code in blood",
-        "email": "ashish09101998@gmail.com",
-        "commits": 264
-    },
-    {
-        "teamName": "code in blood",
-        "email": "ashish09101998@gmail.com",
-        "commits": 133
-    },
-    {
-        "teamName": "The Coding Sorcerer",
-        "email": "tripathi.tripathi04@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "HackSeSingle",
-        "email": "himanshua04@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "Zeus",
-        "email": "rahulvyas@plaak.com",
-        "commits": 0
-    },
-    {
-        "teamName": "eulers",
-        "email": "satyam_23@yahoo.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Knight coders",
-        "email": "tharejaanuj17@gmail.com",
-        "commits": 24
-    },
-    {
-        "teamName": "TECHNOCRATIC DYNAMOS",
-        "email": "chetanyaved@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Geek squad",
-        "email": "shu12.sg@gmail.com",
-        "commits": 75
-    },
-    {
-        "teamName": "Knight coders",
-        "email": "tharejaanuj17@gmail.com",
-        "commits": 15
-    },
-    {
-        "teamName": "TechnoNerds",
-        "email": "singhswati9189@gmail.com",
-        "commits": 11
-    },
-    {
-        "teamName": "TechnoNerds",
-        "email": "singhswati9189@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "Anonymous",
-        "email": "Jindalshivani11@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "HackSeSingle",
-        "email": "himanshua04@gmail.com",
-        "commits": 9
-    },
-    {
-        "teamName": "Bellatrix",
-        "email": "writeprernasingh@gmail.com",
-        "commits": 15
-    },
-    {
-        "teamName": "Hacktivists",
-        "email": "aachman98@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Tormaline Brotherhood",
-        "email": "agilephoenix815.dk@gmail.com",
-        "commits": 11
-    },
-    {
-        "teamName": "Log Horizon",
-        "email": "yashup1997@gmail.com",
-        "commits": 44
-    },
-    {
-        "teamName": "Bellatrix",
-        "email": "writeprernasingh@gmail.com",
-        "commits": 32
-    },
-    {
-        "teamName": "A7A",
-        "email": "amritpal5699@gmail.com",
-        "commits": 13
-    },
-    {
-        "teamName": "00Heaven",
-        "email": "phooda804@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Tormaline Brotherhood",
-        "email": "agilephoenix815.dk@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "TechnoNerds",
-        "email": "singhswati9189@gmail.com",
-        "commits": 45
-    },
-    {
-        "teamName": "Inventarous",
-        "email": "garvitagl@gmail.com",
-        "commits": 0
-    },
-    {
-        "teamName": "TechGeeks",
-        "email": "jainshubham0403@gmail.com",
-        "commits": 20
-    },
-    {
-        "teamName": "Debug Mechanics",
-        "email": "kartikbehl99@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "the hitmen",
-        "email": "nikhilksingh97@gmail.com",
-        "commits": 157
-    },
-    {
-        "teamName": "coding_maniacs",
-        "email": "akshitaarora28011998@gmail.com",
-        "commits": 16
-    },
-    {
-        "teamName": "Coders",
-        "email": "Himanshuarora3097@gmail.com",
-        "commits": 31
-    },
-    {
-        "teamName": "Oblique",
-        "email": "obliquendrd@gmail.com",
-        "commits": 67
-    },
-    {
-        "teamName": "The Hack Backpackers",
-        "email": "sauravprakash999@gmail.com",
-        "commits": 77
-    },
-    {
-        "teamName": "code in blood",
-        "email": "ashish09101998@gmail.com",
-        "commits": 391
-    },
-    {
-        "teamName": "InstillCoders",
-        "email": "prince.cenation@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Elite",
-        "email": "divyendra.1610056@kiet.edu",
-        "commits": 15
-    },
-    {
-        "teamName": "Reverlash",
-        "email": "harshit.kohli1997@gmail.com",
-        "commits": 6
-    },
-    {
-        "teamName": "TechnoNerds",
-        "email": "singhswati9189@gmail.com",
-        "commits": 23
-    },
-    {
-        "teamName": "TECHNOCRATIC DYNAMOS",
-        "email": "chetanyaved@gmail.com",
-        "commits": 2
-    },
-    {
-        "teamName": "InstillCoders",
-        "email": "prince.cenation@gmail.com",
-        "commits": 151
-    },
-    {
-        "teamName": "Log Horizon",
-        "email": "yashup1997@gmail.com",
-        "commits": 206
-    },
-    {
-        "teamName": "The Coding Sorcerer",
-        "email": "tripathi.tripathi04@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "The Hack Backpackers",
-        "email": "sauravprakash999@gmail.com",
-        "commits": 15
-    },
-    {
-        "teamName": "supercalifragilisticexpialidocious hackers",
-        "email": "akshatbhargavadeepa@gmail.com",
-        "commits": 124
-    },
-    {
-        "teamName": "The Coding Sorcerer",
-        "email": "tripathi.tripathi04@gmail.com",
-        "commits": 16
-    },
-    {
-        "teamName": "BugBusters",
-        "email": "ps20maths@gmail.com",
-        "commits": 257
-    },
-    {
-        "teamName": "Droid_Brothers",
-        "email": "vashisht.s21295@gmail.com",
-        "commits": 207
-    },
-    {
-        "teamName": "Zeus",
-        "email": "rahulvyas@plaak.com",
-        "commits": 45
-    },
-    {
-        "teamName": "Int Elligence",
-        "email": "keshariananya@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "HackPerts",
-        "email": "naman.mohan09@gmail.com",
-        "commits": 106
-    },
-    {
-        "teamName": "Oblique",
-        "email": "obliquendrd@gmail.com",
-        "commits": 6
-    },
-    {
-        "teamName": "NoOne",
-        "email": "nikhil722sharma@gmail.com",
-        "commits": 29
-    },
-    {
-        "teamName": "Super Hackers",
-        "email": "akshatbhargavadeepa@gmail.com",
-        "commits": 124
-    },
-    {
-        "teamName": "retro06",
-        "email": "jitendermittal8697@gmail.com",
-        "commits": 82
-    },
-    {
-        "teamName": "Arjuna",
-        "email": "vasu.awatramani@gmail.com",
-        "commits": 304
-    },
-    {
-        "teamName": "Snowden",
-        "email": "iamsiddhanthdwivedi@gmail.com",
-        "commits": 4
-    },
-    {
-        "teamName": "Coco",
-        "email": "namangoyal.1998@rediffmail.com",
-        "commits": 6
-    },
-    {
-        "teamName": "Coders",
-        "email": "Himanshuarora3097@gmail.com",
-        "commits": 105
-    },
-    {
-        "teamName": "TEAM 101",
-        "email": "devanshbatra04@gmail.com",
-        "commits": 23
-    },
-    {
-        "teamName": "MCS Trios",
-        "email": "manpreetsingh5772000@gmail.com",
-        "commits": 9
-    },
-    {
-        "teamName": "Fruitchill",
-        "email": "ritviksinghrautela@gmail.com",
-        "commits": 391
-    },
-    {
-        "teamName": "Reverlash",
-        "email": "harshit.kohli1997@gmail.com",
-        "commits": 96
-    },
-    {
-        "teamName": "Snow",
-        "email": "kumar.anand.rai@gmail.com",
-        "commits": 42
-    },
-    {
-        "teamName": "eulers",
-        "email": "satyam_23@yahoo.com",
-        "commits": 8
-    },
-    {
-        "teamName": "coding_maniacs",
-        "email": "akshitaarora28011998@gmail.com",
-        "commits": 46
-    },
-    {
-        "teamName": "Reverlash",
-        "email": "harshit.kohli1997@gmail.com",
-        "commits": 565
-    },
-    {
-        "teamName": "TeamNotFound404",
-        "email": "aastha980@gmail.com",
-        "commits": 10
-    },
-    {
-        "teamName": "Arjuna",
-        "email": "vasu.awatramani@gmail.com",
-        "commits": 159
-    },
-    {
-        "teamName": "MCS Trios",
-        "email": "manpreetsingh5772000@gmail.com",
-        "commits": 13
-    },
-    {
-        "teamName": "Zabalabadubb",
-        "email": "saggieb12@gmail.com",
-        "commits": 3
-    },
-    {
-        "teamName": "TODO",
-        "email": "madhav.khoslaa@gmail.com",
-        "commits": 56
-    },
-    {
-        "teamName": "Bellatrix",
-        "email": "writeprernasingh@gmail.com",
-        "commits": 113
-    },
-    {
-        "teamName": "FTS",
-        "email": "avi17223@iiitd.ac.in",
-        "commits": 122
-    },
-    {
-        "teamName": "Marshal Coders",
-        "email": "marshal.coders@gmail.com",
-        "commits": 250
-    },
-    {
-        "teamName": "Infinite Loop",
-        "email": "amartyabiswas001@gmail.com",
-        "commits": 13
-    },
-    {
-        "teamName": "bat-coders",
-        "email": "anurags153@gmail.com",
-        "commits": 159
-    },
-    {
-        "teamName": "bat-coders",
-        "email": "anurags153@gmail.com",
-        "commits": 3
-    },
-    {
-        "teamName": "NoOne",
-        "email": "nikhil722sharma@gmail.com",
-        "commits": 162
-    },
-    {
-        "teamName": "TECHNOCRATIC DYNAMOS",
-        "email": "chetanyaved@gmail.com",
-        "commits": 26
-    },
-    {
-        "teamName": "Coolista",
-        "email": "jhashankar0077@gmail.com",
-        "commits": 11
-    },
-    {
-        "teamName": "goGetters",
-        "email": "tanmay.s97@gmail.com",
-        "commits": 24
-    },
-    {
-        "teamName": "BugBusters",
-        "email": "ps20maths@gmail.com",
-        "commits": 271
-    },
-    {
-        "teamName": "goGetters",
-        "email": "tanmay.s97@gmail.com",
-        "commits": 41
-    },
-    {
-        "teamName": "TODO",
-        "email": "madhav.khoslaa@gmail.com",
-        "commits": 19
-    },
-    {
-        "teamName": "Geek squad",
-        "email": "shu12.sg@gmail.com",
-        "commits": 21
-    },
-    {
-        "teamName": "retro06",
-        "email": "jitendermittal8697@gmail.com",
-        "commits": 58
-    },
-    {
-        "teamName": "9TH BIT",
-        "email": "kjcdude97@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "FTS",
-        "email": "avi17223@iiitd.ac.in",
-        "commits": 7
-    },
-    {
-        "teamName": "Tech junkies",
-        "email": "sarthaksadh01@icloud.com",
-        "commits": 6
-    },
-    {
-        "teamName": "Anonymous",
-        "email": "Jindalshivani11@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Hack Elite",
-        "email": "kharsh.hk89@gmail.com",
-        "commits": 45
-    },
-    {
-        "teamName": "Team_Useful",
-        "email": "udkumar249@outlook.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Int Elligence",
-        "email": "keshariananya@gmail.com",
-        "commits": 2
-    },
-    {
-        "teamName": "jai mata di",
-        "email": "siladityaa@gmail.com",
-        "commits": 6
-    },
-    {
-        "teamName": "Pseudo101",
-        "email": "ishaanofficial28@gmail.com",
-        "commits": 70
-    },
-    {
-        "teamName": "9TH BIT",
-        "email": "kjcdude97@gmail.com",
-        "commits": 0
-    },
-    {
-        "teamName": "HackPerts",
-        "email": "naman.mohan09@gmail.com",
-        "commits": 345
-    },
-    {
-        "teamName": "Team A",
-        "email": "dpkbhardwaj2580@gmail.com",
-        "commits": 56
-    },
-    {
-        "teamName": "WhoCares",
-        "email": "naveenlakhchaura1998@gmail.com",
-        "commits": 47
-    },
-    {
-        "teamName": "Minions",
-        "email": "vigzmv@outlook.com",
-        "commits": 17
-    },
-    {
-        "teamName": "Indentation",
-        "email": "ashishsxn96@gmail.com",
-        "commits": 3
-    },
-    {
-        "teamName": "InstillCoders",
-        "email": "prince.cenation@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Zeus",
-        "email": "rahulvyas@plaak.com",
-        "commits": 24
-    },
-    {
-        "teamName": "Team Tortoise",
-        "email": "rishabhmalik249@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "noobs",
-        "email": "rajdeepbharati13@gmail.com",
-        "commits": 286
-    },
-    {
-        "teamName": "Zeus",
-        "email": "rahulvyas@plaak.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Bots on Shots",
-        "email": "pulkit.pahuja98@gmail.com",
-        "commits": 33
-    },
-    {
-        "teamName": "Reverlash",
-        "email": "harshit.kohli1997@gmail.com",
-        "commits": 50
-    },
-    {
-        "teamName": "The Environmentalist",
-        "email": "guptaujjwal1128@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "sudo win",
-        "email": "vinayakk.garg99@gmail.com",
-        "commits": 36
-    },
-    {
-        "teamName": "Inventarous",
-        "email": "garvitagl@gmail.com",
-        "commits": 3
-    },
-    {
-        "teamName": "HackPerts",
-        "email": "naman.mohan09@gmail.com",
-        "commits": 45
-    },
-    {
-        "teamName": "Make Believe",
-        "email": "shashwatgulyani@gmail.com",
-        "commits": 706
-    },
-    {
-        "teamName": "Super Hackers",
-        "email": "akshatbhargavadeepa@gmail.com",
-        "commits": 356
-    },
-    {
-        "teamName": "LHash",
-        "email": "developer@shikharagnihotri.com",
-        "commits": 668
-    },
-    {
-        "teamName": "Minions",
-        "email": "vigzmv@outlook.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Rufus",
-        "email": "hkamboj2603199@gmail.com",
-        "commits": 154
-    },
-    {
-        "teamName": "The Environmentalist",
-        "email": "guptaujjwal1128@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Elite",
-        "email": "divyendra.1610056@kiet.edu",
-        "commits": 12
-    },
-    {
-        "teamName": "HackPerts",
-        "email": "naman.mohan09@gmail.com",
-        "commits": 153
-    },
-    {
-        "teamName": "The Hack Backpackers",
-        "email": "sauravprakash999@gmail.com",
-        "commits": 149
-    },
-    {
-        "teamName": "Team Noob",
-        "email": "sushantv7597@gmail.com",
-        "commits": 34
-    },
-    {
-        "teamName": "Xclusive Coders",
-        "email": "yadavsourav24071998@gmail.com",
-        "commits": 179
-    },
-    {
-        "teamName": "Lunatic hackers",
-        "email": "munishgrover98@gmail.com",
-        "commits": 33
-    },
-    {
-        "teamName": "Hacktivists",
-        "email": "aachman98@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Codex",
-        "email": "bhoomika.mcs17.du@gmail.com",
-        "commits": 324
-    },
-    {
-        "teamName": "HackSeSingle",
-        "email": "himanshua04@gmail.com",
-        "commits": 9
-    },
-    {
-        "teamName": "OMEGA",
-        "email": "piyushg.gupta645@gmail.com",
-        "commits": 601
-    },
-    {
-        "teamName": "Xclusive Coders",
-        "email": "yadavsourav24071998@gmail.com",
-        "commits": 81
-    },
-    {
-        "teamName": "Seekers",
-        "email": "ekagratasharma@gmail.com",
-        "commits": 51
-    },
-    {
-        "teamName": "goGetters",
-        "email": "tanmay.s97@gmail.com",
-        "commits": 33
-    },
-    {
-        "teamName": "Bots on Shots",
-        "email": "pulkit.pahuja98@gmail.com",
-        "commits": 44
-    },
-    {
-        "teamName": "The Sophomores",
-        "email": "nishantnischaya@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "bat-coders",
-        "email": "anurags153@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "UNEXPECTED TOKENS",
-        "email": "taniyagupta1698@gmail.com",
-        "commits": 209
-    },
-    {
-        "teamName": "Techons",
-        "email": "pradeep1500raj@gmail.com",
-        "commits": 2
-    },
-    {
-        "teamName": "Rufus",
-        "email": "hkamboj2603199@gmail.com",
-        "commits": 38
-    },
-    {
-        "teamName": "Fruitchill",
-        "email": "ritviksinghrautela@gmail.com",
-        "commits": 11
-    },
-    {
-        "teamName": "Inventarous",
-        "email": "garvitagl@gmail.com",
-        "commits": 19
-    },
-    {
-        "teamName": "Codipper",
-        "email": "vrittiksharma2@gmail.com",
-        "commits": 24
-    },
-    {
-        "teamName": "FTS",
-        "email": "avi17223@iiitd.ac.in",
-        "commits": 8
-    },
-    {
-        "teamName": "code in blood",
-        "email": "ashish09101998@gmail.com",
-        "commits": 16
-    },
-    {
-        "teamName": "sudo win",
-        "email": "vinayakk.garg99@gmail.com",
-        "commits": 576
-    },
-    {
-        "teamName": "Coco",
-        "email": "namangoyal.1998@rediffmail.com",
-        "commits": 6
-    },
-    {
-        "teamName": "Inventarous",
-        "email": "garvitagl@gmail.com",
-        "commits": 19
-    },
-    {
-        "teamName": "Bellatrix",
-        "email": "writeprernasingh@gmail.com",
-        "commits": 275
-    },
-    {
-        "teamName": "Developer Bros",
-        "email": "kumar.akshay1418@gmail.com",
-        "commits": 125
-    },
-    {
-        "teamName": "TeBraa",
-        "email": "sarru1291@gmail.com",
-        "commits": 48
-    },
-    {
-        "teamName": "Arjuna",
-        "email": "vasu.awatramani@gmail.com",
-        "commits": 36
-    },
-    {
-        "teamName": "retro06",
-        "email": "jitendermittal8697@gmail.com",
-        "commits": 48
-    },
-    {
-        "teamName": "TEAM 101",
-        "email": "devanshbatra04@gmail.com",
-        "commits": 14
-    },
-    {
-        "teamName": "OMEGA",
-        "email": "piyushg.gupta645@gmail.com",
-        "commits": 57
-    },
-    {
-        "teamName": "coding_maniacs",
-        "email": "akshitaarora28011998@gmail.com",
-        "commits": 0
-    },
-    {
-        "teamName": "Anonymous",
-        "email": "Jindalshivani11@gmail.com",
-        "commits": 46
-    },
-    {
-        "teamName": "Ninja coders",
-        "email": "svaish.stp@gmail.com",
-        "commits": 26
-    },
-    {
-        "teamName": "UNEXPECTED TOKENS",
-        "email": "taniyagupta1698@gmail.com",
-        "commits": 13
-    },
-    {
-        "teamName": "Techons",
-        "email": "pradeep1500raj@gmail.com",
-        "commits": 2
-    },
-    {
-        "teamName": "coding_maniacs",
-        "email": "akshitaarora28011998@gmail.com",
-        "commits": 62
-    },
-    {
-        "teamName": "HackedOnce",
-        "email": "parulagg27@gmail.com",
-        "commits": 309
-    },
-    {
-        "teamName": "Sudo",
-        "email": "Vk44vipulkumar1998@gmail.com",
-        "commits": 261
-    },
-    {
-        "teamName": "ASAN",
-        "email": "ab555@snu.edu.in",
-        "commits": 2
-    },
-    {
-        "teamName": "Debug Mechanics",
-        "email": "kartikbehl99@gmail.com",
-        "commits": 2
-    },
-    {
-        "teamName": "HackPerts",
-        "email": "naman.mohan09@gmail.com",
-        "commits": 141
-    },
-    {
-        "teamName": "NoOne",
-        "email": "nikhil722sharma@gmail.com",
-        "commits": 601
-    },
-    {
-        "teamName": "WhoCares",
-        "email": "naveenlakhchaura1998@gmail.com",
-        "commits": 55
-    },
-    {
-        "teamName": "sudo win",
-        "email": "vinayakk.garg99@gmail.com",
-        "commits": 6
-    },
-    {
-        "teamName": "noobs",
-        "email": "rajdeepbharati13@gmail.com",
-        "commits": 216
-    },
-    {
-        "teamName": "ASAN",
-        "email": "ab555@snu.edu.in",
-        "commits": 20
-    },
-    {
-        "teamName": "TODO",
-        "email": "madhav.khoslaa@gmail.com",
-        "commits": 316
-    },
-    {
-        "teamName": "Int Elligence",
-        "email": "keshariananya@gmail.com",
-        "commits": 54
-    },
-    {
-        "teamName": "HackedOnce",
-        "email": "parulagg27@gmail.com",
-        "commits": 4
-    },
-    {
-        "teamName": "harrypotter0",
-        "email": "9654263057akashkandpal@gmail.com",
-        "commits": 906
-    },
-    {
-        "teamName": "Coolista",
-        "email": "jhashankar0077@gmail.com",
-        "commits": 2
-    },
-    {
-        "teamName": "Int Elligence",
-        "email": "keshariananya@gmail.com",
-        "commits": 18
-    },
-    {
-        "teamName": "TechGeeks",
-        "email": "jainshubham0403@gmail.com",
-        "commits": 39
-    },
-    {
-        "teamName": "Infinite Loop",
-        "email": "amartyabiswas001@gmail.com",
-        "commits": 165
-    },
-    {
-        "teamName": "Anonymous",
-        "email": "Jindalshivani11@gmail.com",
-        "commits": 29
-    },
-    {
-        "teamName": "Hack Elite",
-        "email": "kharsh.hk89@gmail.com",
-        "commits": 13
-    },
-    {
-        "teamName": "Team Tortoise",
-        "email": "rishabhmalik249@gmail.com",
-        "commits": 18
-    },
-    {
-        "teamName": "Team A",
-        "email": "dpkbhardwaj2580@gmail.com",
-        "commits": 79
-    },
-    {
-        "teamName": "FTS",
-        "email": "avi17223@iiitd.ac.in",
-        "commits": 116
-    },
-    {
-        "teamName": "Ninja coders",
-        "email": "svaish.stp@gmail.com",
-        "commits": 56
-    },
-    {
-        "teamName": "Linguistic Pandas",
-        "email": "vasugupta7052@gmail.com",
-        "commits": 37
-    },
-    {
-        "teamName": "OMEGA",
-        "email": "piyushg.gupta645@gmail.com",
-        "commits": 9
-    },
-    {
-        "teamName": "NoOne",
-        "email": "nikhil722sharma@gmail.com",
-        "commits": 69
-    },
-    {
-        "teamName": "Team_Useful",
-        "email": "udkumar249@outlook.com",
-        "commits": 19
-    },
-    {
-        "teamName": "Snow",
-        "email": "kumar.anand.rai@gmail.com",
-        "commits": 91
-    },
-    {
-        "teamName": "TeamNotFound404",
-        "email": "aastha980@gmail.com",
-        "commits": 92
-    },
-    {
-        "teamName": "Caffeine Cachers",
-        "email": "jainab.2009@gmail.com",
-        "commits": 793
-    },
-    {
-        "teamName": "BugBusters",
-        "email": "ps20maths@gmail.com",
-        "commits": 154
-    },
-    {
-        "teamName": "Marauders",
-        "email": "vibhu4agarwal@gmail.com",
-        "commits": 141
-    },
-    {
-        "teamName": "LHash",
-        "email": "developer@shikharagnihotri.com",
-        "commits": 740
-    },
-    {
-        "teamName": "Infinite Loop",
-        "email": "amartyabiswas001@gmail.com",
-        "commits": 25
-    },
-    {
-        "teamName": "Anonymous",
-        "email": "Jindalshivani11@gmail.com",
-        "commits": 37
-    },
-    {
-        "teamName": "Linguistic Pandas",
-        "email": "vasugupta7052@gmail.com",
-        "commits": 6
-    },
-    {
-        "teamName": "Knight coders",
-        "email": "tharejaanuj17@gmail.com",
-        "commits": 26
-    },
-    {
-        "teamName": "bat-coders",
-        "email": "anurags153@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "TEAM 101",
-        "email": "devanshbatra04@gmail.com",
-        "commits": 32
-    },
-    {
-        "teamName": "Hacktivists",
-        "email": "aachman98@gmail.com",
-        "commits": 2
-    },
-    {
-        "teamName": "Team A",
-        "email": "dpkbhardwaj2580@gmail.com",
-        "commits": 6
-    },
-    {
-        "teamName": "Log Horizon",
-        "email": "yashup1997@gmail.com",
-        "commits": 0
-    },
-    {
-        "teamName": "AA Battery",
-        "email": "ankushgarg@ieee.org",
-        "commits": 408
-    },
-    {
-        "teamName": "ASAN",
-        "email": "ab555@snu.edu.in",
-        "commits": 15
-    },
-    {
-        "teamName": "ASAN",
-        "email": "ab555@snu.edu.in",
-        "commits": 128
-    },
-    {
-        "teamName": "UNEXPECTED TOKENS",
-        "email": "taniyagupta1698@gmail.com",
-        "commits": 32
-    },
-    {
-        "teamName": "TeamNotFound404",
-        "email": "aastha980@gmail.com",
-        "commits": 36
-    },
-    {
-        "teamName": "TeBraa",
-        "email": "sarru1291@gmail.com",
-        "commits": 4
-    },
-    {
-        "teamName": "Byte Karma",
-        "email": "adityaagg.mca18.du@gmail.com",
-        "commits": 39
-    },
-    {
-        "teamName": "Droid_Brothers",
-        "email": "vashisht.s21295@gmail.com",
-        "commits": 367
-    },
-    {
-        "teamName": "00Heaven",
-        "email": "phooda804@gmail.com",
-        "commits": 531
-    },
-    {
-        "teamName": "TODO",
-        "email": "madhav.khoslaa@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "InstillCoders",
-        "email": "prince.cenation@gmail.com",
-        "commits": 295
-    },
-    {
-        "teamName": "Zabalabadubb",
-        "email": "saggieb12@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "BugBusters",
-        "email": "ps20maths@gmail.com",
-        "commits": 217
-    },
-    {
-        "teamName": "the hitmen",
-        "email": "nikhilksingh97@gmail.com",
-        "commits": 56
-    },
-    {
-        "teamName": "AA Battery",
-        "email": "ankushgarg@ieee.org",
-        "commits": 7
-    },
-    {
-        "teamName": "BugBusters",
-        "email": "ps20maths@gmail.com",
-        "commits": 5
-    },
-    {
-        "teamName": "TeBraa",
-        "email": "sarru1291@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "TEAM 101",
-        "email": "devanshbatra04@gmail.com",
-        "commits": 66
-    },
-    {
-        "teamName": "Arjuna",
-        "email": "vasu.awatramani@gmail.com",
-        "commits": 255
-    },
-    {
-        "teamName": "HackSeSingle",
-        "email": "himanshua04@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "C0rpu$",
-        "email": "ayushagarwal1011@gmail.com",
-        "commits": 16
-    },
-    {
-        "teamName": "Marshal Coders",
-        "email": "marshal.coders@gmail.com",
-        "commits": 21
-    },
-    {
-        "teamName": "supercalifragilisticexpialidocious hackers",
-        "email": "akshatbhargavadeepa@gmail.com",
-        "commits": 356
-    },
-    {
-        "teamName": "harrypotter0",
-        "email": "9654263057akashkandpal@gmail.com",
-        "commits": 3
-    },
-    {
-        "teamName": "qwerty",
-        "email": "sarthaakagarwal@gmail.com",
-        "commits": 241
-    },
-    {
-        "teamName": "9TH BIT",
-        "email": "kjcdude97@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "Elite",
-        "email": "divyendra.1610056@kiet.edu",
-        "commits": 0
-    },
-    {
-        "teamName": "TODO",
-        "email": "madhav.khoslaa@gmail.com",
-        "commits": 47
-    },
-    {
-        "teamName": "fortnite",
-        "email": "icode365@gmail.com",
-        "commits": 406
-    },
-    {
-        "teamName": "Rufus",
-        "email": "hkamboj2603199@gmail.com",
-        "commits": 177
-    },
-    {
-        "teamName": "Team123",
-        "email": "gurnoor3pushpneet3@gmail.com",
-        "commits": 4
-    },
-    {
-        "teamName": "Unpluggers",
-        "email": "rehrajsingh96@gmail.com",
-        "commits": 5
-    },
-    {
-        "teamName": "Codipper",
-        "email": "vrittiksharma2@gmail.com",
-        "commits": 10
-    },
-    {
-        "teamName": "HackedOnce",
-        "email": "parulagg27@gmail.com",
-        "commits": 307
-    },
-    {
-        "teamName": "Infinite Loop",
-        "email": "amartyabiswas001@gmail.com",
-        "commits": 218
-    },
-    {
-        "teamName": "Lunatic hackers",
-        "email": "munishgrover98@gmail.com",
-        "commits": 355
-    },
-    {
-        "teamName": "Inventarous",
-        "email": "garvitagl@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "Team_Useful",
-        "email": "udkumar249@outlook.com",
-        "commits": 556
-    },
-    {
-        "teamName": "Caffeine Cachers",
-        "email": "jainab.2009@gmail.com",
-        "commits": 32
-    },
-    {
-        "teamName": "WhoCares",
-        "email": "naveenlakhchaura1998@gmail.com",
-        "commits": 22
-    },
-    {
-        "teamName": "Debug Mechanics",
-        "email": "kartikbehl99@gmail.com",
-        "commits": 30
-    },
-    {
-        "teamName": "Marshal Coders",
-        "email": "marshal.coders@gmail.com",
-        "commits": 13
-    },
-    {
-        "teamName": "goGetters",
-        "email": "tanmay.s97@gmail.com",
-        "commits": 9
-    },
-    {
-        "teamName": "HackedOnce",
-        "email": "parulagg27@gmail.com",
-        "commits": 92
-    },
-    {
-        "teamName": "coding_maniacs",
-        "email": "akshitaarora28011998@gmail.com",
-        "commits": 5
-    },
-    {
-        "teamName": "Hack Elite",
-        "email": "kharsh.hk89@gmail.com",
-        "commits": 24
-    },
-    {
-        "teamName": "Caffeine Cachers",
-        "email": "jainab.2009@gmail.com",
-        "commits": 0
-    },
-    {
-        "teamName": "qwerty",
-        "email": "sarthaakagarwal@gmail.com",
-        "commits": 36
-    },
-    {
-        "teamName": "Encore",
-        "email": "kapillamba4@gmail.com",
-        "commits": 341
-    },
-    {
-        "teamName": "TeamNotFound404",
-        "email": "aastha980@gmail.com",
-        "commits": 21
-    },
-    {
-        "teamName": "the hitmen",
-        "email": "nikhilksingh97@gmail.com",
-        "commits": 285
-    },
-    {
-        "teamName": "Team Noob",
-        "email": "sushantv7597@gmail.com",
-        "commits": 8
-    },
-    {
-        "teamName": "Genetix",
-        "email": "princekhera90@gmail.com",
-        "commits": 20
-    },
-    {
-        "teamName": "AA Battery",
-        "email": "ankushgarg@ieee.org",
-        "commits": 46
-    },
-    {
-        "teamName": "Infinite Loop",
-        "email": "amartyabiswas001@gmail.com",
-        "commits": 100
-    },
-    {
-        "teamName": "UNEXPECTED TOKENS",
-        "email": "taniyagupta1698@gmail.com",
-        "commits": 45
-    },
-    {
-        "teamName": "Pro coders",
-        "email": "chiragaggarwal99@gmail.com",
-        "commits": 0
-    },
-    {
-        "teamName": "9TH BIT",
-        "email": "kjcdude97@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "A7A",
-        "email": "amritpal5699@gmail.com",
-        "commits": 13
-    },
-    {
-        "teamName": "Hacktivists",
-        "email": "aachman98@gmail.com",
-        "commits": 14
-    },
-    {
-        "teamName": "Zabalabadubb",
-        "email": "saggieb12@gmail.com",
-        "commits": 2
-    },
-    {
-        "teamName": "Tech junkies",
-        "email": "sarthaksadh01@icloud.com",
-        "commits": 46
-    },
-    {
-        "teamName": "Xclusive Coders",
-        "email": "yadavsourav24071998@gmail.com",
-        "commits": 52
-    },
-    {
-        "teamName": "The Hack Backpackers",
-        "email": "sauravprakash999@gmail.com",
-        "commits": 141
-    },
-    {
-        "teamName": "Developer Bros",
-        "email": "kumar.akshay1418@gmail.com",
-        "commits": 262
-    },
-    {
-        "teamName": "HackSeSingle",
-        "email": "himanshua04@gmail.com",
-        "commits": 3
-    },
-    {
-        "teamName": "Xclusive Coders",
-        "email": "yadavsourav24071998@gmail.com",
-        "commits": 40
-    },
-    {
-        "teamName": "Team_Useful",
-        "email": "udkumar249@outlook.com",
-        "commits": 112
-    },
-    {
-        "teamName": "Marauders",
-        "email": "vibhu4agarwal@gmail.com",
-        "commits": 269
-    },
-    {
-        "teamName": "Hacktivists",
-        "email": "aachman98@gmail.com",
-        "commits": 13
-    },
-    {
-        "teamName": "TEAM 101",
-        "email": "devanshbatra04@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Sudo_apt_hack",
-        "email": "bipinkalra@gmail.com",
-        "commits": 405
-    },
-    {
-        "teamName": "retro06",
-        "email": "jitendermittal8697@gmail.com",
-        "commits": 47
-    },
-    {
-        "teamName": "Reverlash",
-        "email": "harshit.kohli1997@gmail.com",
-        "commits": 185
-    },
-    {
-        "teamName": "Byte Karma",
-        "email": "adityaagg.mca18.du@gmail.com",
-        "commits": 2
-    },
-    {
-        "teamName": "Alpha",
-        "email": "prerna.khanna97@gmail.com",
-        "commits": 0
-    },
-    {
-        "teamName": "Super Hackers",
-        "email": "akshatbhargavadeepa@gmail.com",
-        "commits": 10
-    },
-    {
-        "teamName": "Elite",
-        "email": "divyendra.1610056@kiet.edu",
-        "commits": 5
-    },
-    {
-        "teamName": "Team Infinity",
-        "email": "gsardana001@gmail.com",
-        "commits": 117
-    },
-    {
-        "teamName": "Estrogen",
-        "email": "rydersmoke.52@gmail.com",
-        "commits": 0
-    },
-    {
-        "teamName": "Genetix",
-        "email": "princekhera90@gmail.com",
-        "commits": 25
-    },
-    {
-        "teamName": "Snowden",
-        "email": "iamsiddhanthdwivedi@gmail.com",
-        "commits": 4
-    },
-    {
-        "teamName": "Linguistic Pandas",
-        "email": "vasugupta7052@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Sudo",
-        "email": "Vk44vipulkumar1998@gmail.com",
-        "commits": 70
-    },
-    {
-        "teamName": "Caffeine Cachers",
-        "email": "jainab.2009@gmail.com",
-        "commits": 504
-    },
-    {
-        "teamName": "Techons",
-        "email": "pradeep1500raj@gmail.com",
-        "commits": 2
-    },
-    {
-        "teamName": "TECHNOCRATIC DYNAMOS",
-        "email": "chetanyaved@gmail.com",
-        "commits": 511
-    },
-    {
-        "teamName": "Codex",
-        "email": "bhoomika.mcs17.du@gmail.com",
-        "commits": 87
-    },
-    {
-        "teamName": "Team Noob",
-        "email": "sushantv7597@gmail.com",
-        "commits": 71
-    },
-    {
-        "teamName": "9TH BIT",
-        "email": "kjcdude97@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "Arjuna",
-        "email": "vasu.awatramani@gmail.com",
-        "commits": 386
-    },
-    {
-        "teamName": "InstillCoders",
-        "email": "prince.cenation@gmail.com",
-        "commits": 210
-    },
-    {
-        "teamName": "TECHNOCRATIC DYNAMOS",
-        "email": "chetanyaved@gmail.com",
-        "commits": 6
-    },
-    {
-        "teamName": "sudo win",
-        "email": "vinayakk.garg99@gmail.com",
-        "commits": 111
-    },
-    {
-        "teamName": "Super Hackers",
-        "email": "akshatbhargavadeepa@gmail.com",
-        "commits": 7
-    },
-    {
-        "teamName": "OMEGA",
-        "email": "piyushg.gupta645@gmail.com",
-        "commits": 20
-    },
-    {
-        "teamName": "bat-coders",
-        "email": "anurags153@gmail.com",
-        "commits": 1
-    },
-    {
-        "teamName": "HackedOnce",
-        "email": "parulagg27@gmail.com",
-        "commits": 156
-    },
-    {
-        "teamName": "Sudo_apt_hack",
-        "email": "bipinkalra@gmail.com",
-        "commits": 8
-    },
-    {
-        "teamName": "sudo win",
-        "email": "vinayakk.garg99@gmail.com",
-        "commits": 420
-    },
-    {
-        "teamName": "TechBot Karma",
-        "email": "nirvanasinha@gmail.com",
-        "commits": 0
-    },
-    {
-        "teamName": "Encore",
-        "email": "kapillamba4@gmail.com",
-        "commits": 341
-    },
-    {
-        "teamName": "Pseudo101",
-        "email": "ishaanofficial28@gmail.com",
-        "commits": 367
-    },
-    {
-        "teamName": "The Sophomores",
-        "email": "nishantnischaya@gmail.com",
-        "commits": 90
-    },
-    {
-        "teamName": "Hack Elite",
-        "email": "kharsh.hk89@gmail.com",
-        "commits": 96
-    },
-    {
-        "teamName": "Sudo_apt_hack",
-        "email": "bipinkalra@gmail.com",
-        "commits": 27
-    },
-    {
-        "teamName": "Make Believe",
-        "email": "shashwatgulyani@gmail.com",
-        "commits": 10
-    },
-    {
-        "teamName": "Codipper",
-        "email": "vrittiksharma2@gmail.com",
-        "commits": 100
-    },
-    {
-        "teamName": "Team Infinity",
-        "email": "gsardana001@gmail.com",
-        "commits": 5
-    },
-    {
-        "teamName": "Bellatrix",
-        "email": "writeprernasingh@gmail.com",
-        "commits": 39
-    },
-    {
-        "teamName": "fortnite",
-        "email": "icode365@gmail.com",
-        "commits": 286
-    },
-    {
-        "teamName": "Seekers",
-        "email": "ekagratasharma@gmail.com",
-        "commits": 24
-    },
-    {
-        "teamName": "Zabalabadubb",
-        "email": "saggieb12@gmail.com",
-        "commits": 6
-    },
-    {
-        "teamName": "Marshal Coders",
-        "email": "marshal.coders@gmail.com",
-        "commits": 24
-    },
-    {
-        "teamName": "The Sophomores",
-        "email": "nishantnischaya@gmail.com",
-        "commits": 32
-    }
-]
+{
+  "teamName": "The Sophomores",
+  "email": "nishantnischaya@gmail.com",
+  "commits": 32
+},{
+  "teamName": "HackSeSingle",
+  "email": "himanshua04@gmail.com",
+  "commits": 3
+},{
+  "teamName": "Developer Bros",
+  "email": "kumar.akshay1418@gmail.com",
+  "commits": 125
+},{
+  "teamName": "Coders",
+  "email": "Himanshuarora3097@gmail.com",
+  "commits": 31
+},{
+  "teamName": "HackSeSingle",
+  "email": "himanshua04@gmail.com",
+  "commits": 7
+},{
+  "teamName": "Log Horizon",
+  "email": "yashup1997@gmail.com",
+  "commits": 44
+},{
+  "teamName": "code in blood",
+  "email": "ashish09101998@gmail.com",
+  "commits": 391
+},{
+  "teamName": "HackSeSingle",
+  "email": "himanshua04@gmail.com",
+  "commits": 7
+},{
+  "teamName": "Bellatrix",
+  "email": "writeprernasingh@gmail.com",
+  "commits": 15
+},{
+  "teamName": "Team123",
+  "email": "gurnoor3pushpneet3@gmail.com",
+  "commits": 4
+},{
+  "teamName": "Anonymous",
+  "email": "Jindalshivani11@gmail.com",
+  "commits": 29
+},{
+  "teamName": "The Coding Sorcerer",
+  "email": "tripathi.tripathi04@gmail.com",
+  "commits": 1
+},{
+  "teamName": "TechGeeks",
+  "email": "jainshubham0403@gmail.com",
+  "commits": 20
+},{
+  "teamName": "fortnite",
+  "email": "icode365@gmail.com",
+  "commits": 406
+},{
+  "teamName": "Sudo",
+  "email": "Vk44vipulkumar1998@gmail.com",
+  "commits": 70
+},{
+  "teamName": "TECHNOCRATIC DYNAMOS",
+  "email": "chetanyaved@gmail.com",
+  "commits": 1
+},{
+  "teamName": "noobs",
+  "email": "rajdeepbharati13@gmail.com",
+  "commits": 216
+},{
+  "teamName": "Knight coders",
+  "email": "tharejaanuj17@gmail.com",
+  "commits": 26
+},{
+  "teamName": "TECHNOCRATIC DYNAMOS",
+  "email": "chetanyaved@gmail.com",
+  "commits": 6
+},{
+  "teamName": "TECHNOCRATIC DYNAMOS",
+  "email": "chetanyaved@gmail.com",
+  "commits": 26
+},{
+  "teamName": "WhoCares",
+  "email": "naveenlakhchaura1998@gmail.com",
+  "commits": 22
+},{
+  "teamName": "The Hack Backpackers",
+  "email": "sauravprakash999@gmail.com",
+  "commits": 77
+},{
+  "teamName": "A7A",
+  "email": "amritpal5699@gmail.com",
+  "commits": 13
+},{
+  "teamName": "Knight coders",
+  "email": "tharejaanuj17@gmail.com",
+  "commits": 15
+},{
+  "teamName": "LHash",
+  "email": "developer@shikharagnihotri.com",
+  "commits": 668
+},{
+  "teamName": "The Coding Sorcerer",
+  "email": "tripathi.tripathi04@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Linguistic Pandas",
+  "email": "vasugupta7052@gmail.com",
+  "commits": 37
+},{
+  "teamName": "Bellatrix",
+  "email": "writeprernasingh@gmail.com",
+  "commits": 39
+},{
+  "teamName": "Bots on Shots",
+  "email": "pulkit.pahuja98@gmail.com",
+  "commits": 33
+},{
+  "teamName": "Pseudo101",
+  "email": "ishaanofficial28@gmail.com",
+  "commits": 367
+},{
+  "teamName": "Zeus",
+  "email": "rahulvyas@plaak.com",
+  "commits": 45
+},{
+  "teamName": "Elite",
+  "email": "divyendra.1610056@kiet.edu",
+  "commits": 15
+},{
+  "teamName": "Anonymous",
+  "email": "Jindalshivani11@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Bellatrix",
+  "email": "writeprernasingh@gmail.com",
+  "commits": 32
+},{
+  "teamName": "The Coding Sorcerer",
+  "email": "tripathi.tripathi04@gmail.com",
+  "commits": 16
+},{
+  "teamName": "Team Noob",
+  "email": "sushantv7597@gmail.com",
+  "commits": 8
+},{
+  "teamName": "Coders",
+  "email": "Himanshuarora3097@gmail.com",
+  "commits": 105
+},{
+  "teamName": "Developer Bros",
+  "email": "kumar.akshay1418@gmail.com",
+  "commits": 262
+},{
+  "teamName": "AA Battery",
+  "email": "ankushgarg@ieee.org",
+  "commits": 46
+},{
+  "teamName": "Debug Mechanics",
+  "email": "kartikbehl99@gmail.com",
+  "commits": 2
+},{
+  "teamName": "Reverlash",
+  "email": "harshit.kohli1997@gmail.com",
+  "commits": 6
+},{
+  "teamName": "Tormaline Brotherhood",
+  "email": "agilephoenix815.dk@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Indentation",
+  "email": "ashishsxn96@gmail.com",
+  "commits": 3
+},{
+  "teamName": "Marshal Coders",
+  "email": "marshal.coders@gmail.com",
+  "commits": 13
+},{
+  "teamName": "WhoCares",
+  "email": "naveenlakhchaura1998@gmail.com",
+  "commits": 55
+},{
+  "teamName": "MCS Trios",
+  "email": "manpreetsingh5772000@gmail.com",
+  "commits": 13
+},{
+  "teamName": "the hitmen",
+  "email": "nikhilksingh97@gmail.com",
+  "commits": 285
+},{
+  "teamName": "Snowden",
+  "email": "iamsiddhanthdwivedi@gmail.com",
+  "commits": 4
+},{
+  "teamName": "Tormaline Brotherhood",
+  "email": "agilephoenix815.dk@gmail.com",
+  "commits": 11
+},{
+  "teamName": "Codipper",
+  "email": "vrittiksharma2@gmail.com",
+  "commits": 100
+},{
+  "teamName": "Reverlash",
+  "email": "harshit.kohli1997@gmail.com",
+  "commits": 185
+},{
+  "teamName": "Minions",
+  "email": "vigzmv@outlook.com",
+  "commits": 17
+},{
+  "teamName": "supercalifragilisticexpialidocious hackers",
+  "email": "akshatbhargavadeepa@gmail.com",
+  "commits": 124
+},{
+  "teamName": "TechnoNerds",
+  "email": "singhswati9189@gmail.com",
+  "commits": 23
+},{
+  "teamName": "Team A",
+  "email": "dpkbhardwaj2580@gmail.com",
+  "commits": 79
+},{
+  "teamName": "AA Battery",
+  "email": "ankushgarg@ieee.org",
+  "commits": 408
+},{
+  "teamName": "code in blood",
+  "email": "ashish09101998@gmail.com",
+  "commits": 16
+},{
+  "teamName": "TECHNOCRATIC DYNAMOS",
+  "email": "chetanyaved@gmail.com",
+  "commits": 2
+},{
+  "teamName": "HackSeSingle",
+  "email": "himanshua04@gmail.com",
+  "commits": 9
+},{
+  "teamName": "InstillCoders",
+  "email": "prince.cenation@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Bellatrix",
+  "email": "writeprernasingh@gmail.com",
+  "commits": 275
+},{
+  "teamName": "BugBusters",
+  "email": "ps20maths@gmail.com",
+  "commits": 5
+},{
+  "teamName": "TODO",
+  "email": "madhav.khoslaa@gmail.com",
+  "commits": 316
+},{
+  "teamName": "HackedOnce",
+  "email": "parulagg27@gmail.com",
+  "commits": 92
+},{
+  "teamName": "Hacktivists",
+  "email": "aachman98@gmail.com",
+  "commits": 2
+},{
+  "teamName": "Bellatrix",
+  "email": "writeprernasingh@gmail.com",
+  "commits": 113
+},{
+  "teamName": "Inventarous",
+  "email": "garvitagl@gmail.com",
+  "commits": 0
+},{
+  "teamName": "Caffeine Cachers",
+  "email": "jainab.2009@gmail.com",
+  "commits": 32
+},{
+  "teamName": "The Sophomores",
+  "email": "nishantnischaya@gmail.com",
+  "commits": 7
+},{
+  "teamName": "Linguistic Pandas",
+  "email": "vasugupta7052@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Bots on Shots",
+  "email": "pulkit.pahuja98@gmail.com",
+  "commits": 44
+},{
+  "teamName": "eulers",
+  "email": "satyam_23@yahoo.com",
+  "commits": 1
+},{
+  "teamName": "the hitmen",
+  "email": "nikhilksingh97@gmail.com",
+  "commits": 157
+},{
+  "teamName": "Codex",
+  "email": "bhoomika.mcs17.du@gmail.com",
+  "commits": 324
+},{
+  "teamName": "Debug Mechanics",
+  "email": "kartikbehl99@gmail.com",
+  "commits": 7
+},{
+  "teamName": "TEAM 101",
+  "email": "devanshbatra04@gmail.com",
+  "commits": 66
+},{
+  "teamName": "UNEXPECTED TOKENS",
+  "email": "taniyagupta1698@gmail.com",
+  "commits": 32
+},{
+  "teamName": "HackPerts",
+  "email": "naman.mohan09@gmail.com",
+  "commits": 45
+},{
+  "teamName": "Team A",
+  "email": "dpkbhardwaj2580@gmail.com",
+  "commits": 6
+},{
+  "teamName": "Alpha",
+  "email": "prerna.khanna97@gmail.com",
+  "commits": 0
+},{
+  "teamName": "Arjuna",
+  "email": "vasu.awatramani@gmail.com",
+  "commits": 159
+},{
+  "teamName": "Anonymous",
+  "email": "Jindalshivani11@gmail.com",
+  "commits": 46
+},{
+  "teamName": "Byte Karma",
+  "email": "adityaagg.mca18.du@gmail.com",
+  "commits": 39
+},{
+  "teamName": "NoOne",
+  "email": "nikhil722sharma@gmail.com",
+  "commits": 69
+},{
+  "teamName": "InstillCoders",
+  "email": "prince.cenation@gmail.com",
+  "commits": 295
+},{
+  "teamName": "TechGeeks",
+  "email": "jainshubham0403@gmail.com",
+  "commits": 39
+},{
+  "teamName": "Team_Useful",
+  "email": "udkumar249@outlook.com",
+  "commits": 112
+},{
+  "teamName": "retro06",
+  "email": "jitendermittal8697@gmail.com",
+  "commits": 82
+},{
+  "teamName": "Inventarous",
+  "email": "garvitagl@gmail.com",
+  "commits": 19
+},{
+  "teamName": "Xclusive Coders",
+  "email": "yadavsourav24071998@gmail.com",
+  "commits": 52
+},{
+  "teamName": "sudo win",
+  "email": "vinayakk.garg99@gmail.com",
+  "commits": 111
+},{
+  "teamName": "The Hack Backpackers",
+  "email": "sauravprakash999@gmail.com",
+  "commits": 15
+},{
+  "teamName": "9TH BIT",
+  "email": "kjcdude97@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Oblique",
+  "email": "obliquendrd@gmail.com",
+  "commits": 67
+},{
+  "teamName": "code in blood",
+  "email": "ashish09101998@gmail.com",
+  "commits": 133
+},{
+  "teamName": "Seekers",
+  "email": "ekagratasharma@gmail.com",
+  "commits": 24
+},{
+  "teamName": "Ninja coders",
+  "email": "svaish.stp@gmail.com",
+  "commits": 56
+},{
+  "teamName": "TeBraa",
+  "email": "sarru1291@gmail.com",
+  "commits": 48
+},{
+  "teamName": "Genetix",
+  "email": "princekhera90@gmail.com",
+  "commits": 20
+},{
+  "teamName": "Lunatic hackers",
+  "email": "munishgrover98@gmail.com",
+  "commits": 355
+},{
+  "teamName": "Ninja coders",
+  "email": "svaish.stp@gmail.com",
+  "commits": 26
+},{
+  "teamName": "Team Noob",
+  "email": "sushantv7597@gmail.com",
+  "commits": 71
+},{
+  "teamName": "Team Noob",
+  "email": "sushantv7597@gmail.com",
+  "commits": 34
+},{
+  "teamName": "Coders",
+  "email": "Himanshuarora3097@gmail.com",
+  "commits": 222
+},{
+  "teamName": "TODO",
+  "email": "madhav.khoslaa@gmail.com",
+  "commits": 19
+},{
+  "teamName": "InstillCoders",
+  "email": "prince.cenation@gmail.com",
+  "commits": 151
+},{
+  "teamName": "TODO",
+  "email": "madhav.khoslaa@gmail.com",
+  "commits": 47
+},{
+  "teamName": "Marauders",
+  "email": "vibhu4agarwal@gmail.com",
+  "commits": 141
+},{
+  "teamName": "Lunatic hackers",
+  "email": "munishgrover98@gmail.com",
+  "commits": 33
+},{
+  "teamName": "Marauders",
+  "email": "vibhu4agarwal@gmail.com",
+  "commits": 269
+},{
+  "teamName": "Geek squad",
+  "email": "shu12.sg@gmail.com",
+  "commits": 75
+},{
+  "teamName": "Int Elligence",
+  "email": "keshariananya@gmail.com",
+  "commits": 7
+},{
+  "teamName": "Zabalabadubb",
+  "email": "saggieb12@gmail.com",
+  "commits": 3
+},{
+  "teamName": "Genetix",
+  "email": "princekhera90@gmail.com",
+  "commits": 25
+},{
+  "teamName": "Hacktivists",
+  "email": "aachman98@gmail.com",
+  "commits": 1
+},{
+  "teamName": "00Heaven",
+  "email": "phooda804@gmail.com",
+  "commits": 531
+},{
+  "teamName": "Zeus",
+  "email": "rahulvyas@plaak.com",
+  "commits": 1
+},{
+  "teamName": "Team Infinity",
+  "email": "gsardana001@gmail.com",
+  "commits": 117
+},{
+  "teamName": "harrypotter0",
+  "email": "9654263057akashkandpal@gmail.com",
+  "commits": 3
+},{
+  "teamName": "BugBusters",
+  "email": "ps20maths@gmail.com",
+  "commits": 217
+},{
+  "teamName": "Caffeine Cachers",
+  "email": "jainab.2009@gmail.com",
+  "commits": 0
+},{
+  "teamName": "ASAN",
+  "email": "ab555@snu.edu.in",
+  "commits": 15
+},{
+  "teamName": "eulers",
+  "email": "satyam_23@yahoo.com",
+  "commits": 8
+},{
+  "teamName": "Techons",
+  "email": "pradeep1500raj@gmail.com",
+  "commits": 2
+},{
+  "teamName": "Log Horizon",
+  "email": "yashup1997@gmail.com",
+  "commits": 206
+},{
+  "teamName": "Zeus",
+  "email": "rahulvyas@plaak.com",
+  "commits": 0
+},{
+  "teamName": "NoOne",
+  "email": "nikhil722sharma@gmail.com",
+  "commits": 601
+},{
+  "teamName": "Arjuna",
+  "email": "vasu.awatramani@gmail.com",
+  "commits": 36
+},{
+  "teamName": "bat-coders",
+  "email": "anurags153@gmail.com",
+  "commits": 159
+},{
+  "teamName": "coding_maniacs",
+  "email": "akshitaarora28011998@gmail.com",
+  "commits": 5
+},{
+  "teamName": "Super Hackers",
+  "email": "akshatbhargavadeepa@gmail.com",
+  "commits": 356
+},{
+  "teamName": "Hack Elite",
+  "email": "kharsh.hk89@gmail.com",
+  "commits": 96
+},{
+  "teamName": "TechnoNerds",
+  "email": "singhswati9189@gmail.com",
+  "commits": 11
+},{
+  "teamName": "LHash",
+  "email": "developer@shikharagnihotri.com",
+  "commits": 740
+},{
+  "teamName": "Coco",
+  "email": "namangoyal.1998@rediffmail.com",
+  "commits": 6
+},{
+  "teamName": "Rufus",
+  "email": "hkamboj2603199@gmail.com",
+  "commits": 38
+},{
+  "teamName": "TEAM 101",
+  "email": "devanshbatra04@gmail.com",
+  "commits": 32
+},{
+  "teamName": "Elite",
+  "email": "divyendra.1610056@kiet.edu",
+  "commits": 0
+},{
+  "teamName": "Zabalabadubb",
+  "email": "saggieb12@gmail.com",
+  "commits": 2
+},{
+  "teamName": "HackPerts",
+  "email": "naman.mohan09@gmail.com",
+  "commits": 345
+},{
+  "teamName": "goGetters",
+  "email": "tanmay.s97@gmail.com",
+  "commits": 9
+},{
+  "teamName": "Codex",
+  "email": "bhoomika.mcs17.du@gmail.com",
+  "commits": 87
+},{
+  "teamName": "Hacktivists",
+  "email": "aachman98@gmail.com",
+  "commits": 14
+},{
+  "teamName": "Arjuna",
+  "email": "vasu.awatramani@gmail.com",
+  "commits": 386
+},{
+  "teamName": "Tech junkies",
+  "email": "sarthaksadh01@icloud.com",
+  "commits": 6
+},{
+  "teamName": "UNEXPECTED TOKENS",
+  "email": "taniyagupta1698@gmail.com",
+  "commits": 13
+},{
+  "teamName": "TODO",
+  "email": "madhav.khoslaa@gmail.com",
+  "commits": 56
+},{
+  "teamName": "Team_Useful",
+  "email": "udkumar249@outlook.com",
+  "commits": 19
+},{
+  "teamName": "Fruitchill",
+  "email": "ritviksinghrautela@gmail.com",
+  "commits": 11
+},{
+  "teamName": "InstillCoders",
+  "email": "prince.cenation@gmail.com",
+  "commits": 210
+},{
+  "teamName": "HackPerts",
+  "email": "naman.mohan09@gmail.com",
+  "commits": 141
+},{
+  "teamName": "fortnite",
+  "email": "icode365@gmail.com",
+  "commits": 286
+},{
+  "teamName": "TeBraa",
+  "email": "sarru1291@gmail.com",
+  "commits": 4
+},{
+  "teamName": "C0rpu$",
+  "email": "ayushagarwal1011@gmail.com",
+  "commits": 16
+},{
+  "teamName": "TechnoNerds",
+  "email": "singhswati9189@gmail.com",
+  "commits": 7
+},{
+  "teamName": "BugBusters",
+  "email": "ps20maths@gmail.com",
+  "commits": 154
+},{
+  "teamName": "Coolista",
+  "email": "jhashankar0077@gmail.com",
+  "commits": 2
+},{
+  "teamName": "TEAM 101",
+  "email": "devanshbatra04@gmail.com",
+  "commits": 14
+},{
+  "teamName": "Team_Useful",
+  "email": "udkumar249@outlook.com",
+  "commits": 556
+},{
+  "teamName": "coding_maniacs",
+  "email": "akshitaarora28011998@gmail.com",
+  "commits": 46
+},{
+  "teamName": "sudo win",
+  "email": "vinayakk.garg99@gmail.com",
+  "commits": 576
+},{
+  "teamName": "Byte Karma",
+  "email": "adityaagg.mca18.du@gmail.com",
+  "commits": 2
+},{
+  "teamName": "Techons",
+  "email": "pradeep1500raj@gmail.com",
+  "commits": 2
+},{
+  "teamName": "Knight coders",
+  "email": "tharejaanuj17@gmail.com",
+  "commits": 24
+},{
+  "teamName": "Geek squad",
+  "email": "shu12.sg@gmail.com",
+  "commits": 21
+},{
+  "teamName": "Inventarous",
+  "email": "garvitagl@gmail.com",
+  "commits": 3
+},{
+  "teamName": "HackSeSingle",
+  "email": "himanshua04@gmail.com",
+  "commits": 9
+},{
+  "teamName": "coding_maniacs",
+  "email": "akshitaarora28011998@gmail.com",
+  "commits": 16
+},{
+  "teamName": "Zabalabadubb",
+  "email": "saggieb12@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Estrogen",
+  "email": "rydersmoke.52@gmail.com",
+  "commits": 0
+},{
+  "teamName": "Arjuna",
+  "email": "vasu.awatramani@gmail.com",
+  "commits": 304
+},{
+  "teamName": "Codipper",
+  "email": "vrittiksharma2@gmail.com",
+  "commits": 24
+},{
+  "teamName": "Encore",
+  "email": "kapillamba4@gmail.com",
+  "commits": 341
+},{
+  "teamName": "Inventarous",
+  "email": "garvitagl@gmail.com",
+  "commits": 7
+},{
+  "teamName": "HackedOnce",
+  "email": "parulagg27@gmail.com",
+  "commits": 307
+},{
+  "teamName": "sudo win",
+  "email": "vinayakk.garg99@gmail.com",
+  "commits": 36
+},{
+  "teamName": "Coco",
+  "email": "namangoyal.1998@rediffmail.com",
+  "commits": 6
+},{
+  "teamName": "Caffeine Cachers",
+  "email": "jainab.2009@gmail.com",
+  "commits": 793
+},{
+  "teamName": "Team_Useful",
+  "email": "udkumar249@outlook.com",
+  "commits": 1
+},{
+  "teamName": "Reverlash",
+  "email": "harshit.kohli1997@gmail.com",
+  "commits": 96
+},{
+  "teamName": "Xclusive Coders",
+  "email": "yadavsourav24071998@gmail.com",
+  "commits": 179
+},{
+  "teamName": "NoOne",
+  "email": "nikhil722sharma@gmail.com",
+  "commits": 29
+},{
+  "teamName": "harrypotter0",
+  "email": "9654263057akashkandpal@gmail.com",
+  "commits": 906
+},{
+  "teamName": "Codipper",
+  "email": "vrittiksharma2@gmail.com",
+  "commits": 10
+},{
+  "teamName": "The Hack Backpackers",
+  "email": "sauravprakash999@gmail.com",
+  "commits": 149
+},{
+  "teamName": "Super Hackers",
+  "email": "akshatbhargavadeepa@gmail.com",
+  "commits": 124
+},{
+  "teamName": "TEAM 101",
+  "email": "devanshbatra04@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Caffeine Cachers",
+  "email": "jainab.2009@gmail.com",
+  "commits": 504
+},{
+  "teamName": "Snow",
+  "email": "kumar.anand.rai@gmail.com",
+  "commits": 42
+},{
+  "teamName": "Xclusive Coders",
+  "email": "yadavsourav24071998@gmail.com",
+  "commits": 40
+},{
+  "teamName": "Zeus",
+  "email": "rahulvyas@plaak.com",
+  "commits": 24
+},{
+  "teamName": "bat-coders",
+  "email": "anurags153@gmail.com",
+  "commits": 7
+},{
+  "teamName": "The Sophomores",
+  "email": "nishantnischaya@gmail.com",
+  "commits": 90
+},{
+  "teamName": "FTS",
+  "email": "avi17223@iiitd.ac.in",
+  "commits": 116
+},{
+  "teamName": "code in blood",
+  "email": "ashish09101998@gmail.com",
+  "commits": 264
+},{
+  "teamName": "Oblique",
+  "email": "obliquendrd@gmail.com",
+  "commits": 6
+},{
+  "teamName": "HackPerts",
+  "email": "naman.mohan09@gmail.com",
+  "commits": 153
+},{
+  "teamName": "Elite",
+  "email": "divyendra.1610056@kiet.edu",
+  "commits": 5
+},{
+  "teamName": "Seekers",
+  "email": "ekagratasharma@gmail.com",
+  "commits": 51
+},{
+  "teamName": "Unpluggers",
+  "email": "rehrajsingh96@gmail.com",
+  "commits": 5
+},{
+  "teamName": "ASAN",
+  "email": "ab555@snu.edu.in",
+  "commits": 20
+},{
+  "teamName": "TeamNotFound404",
+  "email": "aastha980@gmail.com",
+  "commits": 10
+},{
+  "teamName": "coding_maniacs",
+  "email": "akshitaarora28011998@gmail.com",
+  "commits": 0
+},{
+  "teamName": "9TH BIT",
+  "email": "kjcdude97@gmail.com",
+  "commits": 1
+},{
+  "teamName": "retro06",
+  "email": "jitendermittal8697@gmail.com",
+  "commits": 48
+},{
+  "teamName": "BugBusters",
+  "email": "ps20maths@gmail.com",
+  "commits": 271
+},{
+  "teamName": "HackedOnce",
+  "email": "parulagg27@gmail.com",
+  "commits": 309
+},{
+  "teamName": "Encore",
+  "email": "kapillamba4@gmail.com",
+  "commits": 341
+},{
+  "teamName": "InstillCoders",
+  "email": "prince.cenation@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Rufus",
+  "email": "hkamboj2603199@gmail.com",
+  "commits": 154
+},{
+  "teamName": "Sudo",
+  "email": "Vk44vipulkumar1998@gmail.com",
+  "commits": 261
+},{
+  "teamName": "Hack Elite",
+  "email": "kharsh.hk89@gmail.com",
+  "commits": 45
+},{
+  "teamName": "OMEGA",
+  "email": "piyushg.gupta645@gmail.com",
+  "commits": 601
+},{
+  "teamName": "retro06",
+  "email": "jitendermittal8697@gmail.com",
+  "commits": 47
+},{
+  "teamName": "supercalifragilisticexpialidocious hackers",
+  "email": "akshatbhargavadeepa@gmail.com",
+  "commits": 356
+},{
+  "teamName": "Infinite Loop",
+  "email": "amartyabiswas001@gmail.com",
+  "commits": 100
+},{
+  "teamName": "Infinite Loop",
+  "email": "amartyabiswas001@gmail.com",
+  "commits": 25
+},{
+  "teamName": "Sudo_apt_hack",
+  "email": "bipinkalra@gmail.com",
+  "commits": 8
+},{
+  "teamName": "Marshal Coders",
+  "email": "marshal.coders@gmail.com",
+  "commits": 250
+},{
+  "teamName": "TechnoNerds",
+  "email": "singhswati9189@gmail.com",
+  "commits": 45
+},{
+  "teamName": "Make Believe",
+  "email": "shashwatgulyani@gmail.com",
+  "commits": 10
+},{
+  "teamName": "ASAN",
+  "email": "ab555@snu.edu.in",
+  "commits": 2
+},{
+  "teamName": "Super Hackers",
+  "email": "akshatbhargavadeepa@gmail.com",
+  "commits": 7
+},{
+  "teamName": "qwerty",
+  "email": "sarthaakagarwal@gmail.com",
+  "commits": 36
+},{
+  "teamName": "NoOne",
+  "email": "nikhil722sharma@gmail.com",
+  "commits": 162
+},{
+  "teamName": "Hack Elite",
+  "email": "kharsh.hk89@gmail.com",
+  "commits": 13
+},{
+  "teamName": "A7A",
+  "email": "amritpal5699@gmail.com",
+  "commits": 13
+},{
+  "teamName": "Debug Mechanics",
+  "email": "kartikbehl99@gmail.com",
+  "commits": 30
+},{
+  "teamName": "Team Infinity",
+  "email": "gsardana001@gmail.com",
+  "commits": 5
+},{
+  "teamName": "TECHNOCRATIC DYNAMOS",
+  "email": "chetanyaved@gmail.com",
+  "commits": 511
+},{
+  "teamName": "The Environmentalist",
+  "email": "guptaujjwal1128@gmail.com",
+  "commits": 7
+},{
+  "teamName": "WhoCares",
+  "email": "naveenlakhchaura1998@gmail.com",
+  "commits": 47
+},{
+  "teamName": "Infinite Loop",
+  "email": "amartyabiswas001@gmail.com",
+  "commits": 13
+},{
+  "teamName": "Techons",
+  "email": "pradeep1500raj@gmail.com",
+  "commits": 2
+},{
+  "teamName": "Team Tortoise",
+  "email": "rishabhmalik249@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Int Elligence",
+  "email": "keshariananya@gmail.com",
+  "commits": 2
+},{
+  "teamName": "retro06",
+  "email": "jitendermittal8697@gmail.com",
+  "commits": 58
+},{
+  "teamName": "FTS",
+  "email": "avi17223@iiitd.ac.in",
+  "commits": 8
+},{
+  "teamName": "Hacktivists",
+  "email": "aachman98@gmail.com",
+  "commits": 1
+},{
+  "teamName": "TeBraa",
+  "email": "sarru1291@gmail.com",
+  "commits": 1
+},{
+  "teamName": "TeamNotFound404",
+  "email": "aastha980@gmail.com",
+  "commits": 92
+},{
+  "teamName": "MCS Trios",
+  "email": "manpreetsingh5772000@gmail.com",
+  "commits": 9
+},{
+  "teamName": "Hacktivists",
+  "email": "aachman98@gmail.com",
+  "commits": 13
+},{
+  "teamName": "9TH BIT",
+  "email": "kjcdude97@gmail.com",
+  "commits": 0
+},{
+  "teamName": "HackedOnce",
+  "email": "parulagg27@gmail.com",
+  "commits": 4
+},{
+  "teamName": "bat-coders",
+  "email": "anurags153@gmail.com",
+  "commits": 1
+},{
+  "teamName": "UNEXPECTED TOKENS",
+  "email": "taniyagupta1698@gmail.com",
+  "commits": 209
+},{
+  "teamName": "Infinite Loop",
+  "email": "amartyabiswas001@gmail.com",
+  "commits": 218
+},{
+  "teamName": "Tech junkies",
+  "email": "sarthaksadh01@icloud.com",
+  "commits": 46
+},{
+  "teamName": "AA Battery",
+  "email": "ankushgarg@ieee.org",
+  "commits": 7
+},{
+  "teamName": "Pro coders",
+  "email": "chiragaggarwal99@gmail.com",
+  "commits": 0
+},{
+  "teamName": "HackedOnce",
+  "email": "parulagg27@gmail.com",
+  "commits": 156
+},{
+  "teamName": "Snowden",
+  "email": "iamsiddhanthdwivedi@gmail.com",
+  "commits": 4
+},{
+  "teamName": "coding_maniacs",
+  "email": "akshitaarora28011998@gmail.com",
+  "commits": 62
+},{
+  "teamName": "Minions",
+  "email": "vigzmv@outlook.com",
+  "commits": 1
+},{
+  "teamName": "Elite",
+  "email": "divyendra.1610056@kiet.edu",
+  "commits": 12
+},{
+  "teamName": "OMEGA",
+  "email": "piyushg.gupta645@gmail.com",
+  "commits": 9
+},{
+  "teamName": "UNEXPECTED TOKENS",
+  "email": "taniyagupta1698@gmail.com",
+  "commits": 45
+},{
+  "teamName": "bat-coders",
+  "email": "anurags153@gmail.com",
+  "commits": 1
+},{
+  "teamName": "00Heaven",
+  "email": "phooda804@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Marshal Coders",
+  "email": "marshal.coders@gmail.com",
+  "commits": 24
+},{
+  "teamName": "goGetters",
+  "email": "tanmay.s97@gmail.com",
+  "commits": 33
+},{
+  "teamName": "Hack Elite",
+  "email": "kharsh.hk89@gmail.com",
+  "commits": 24
+},{
+  "teamName": "qwerty",
+  "email": "sarthaakagarwal@gmail.com",
+  "commits": 241
+},{
+  "teamName": "noobs",
+  "email": "rajdeepbharati13@gmail.com",
+  "commits": 286
+},{
+  "teamName": "Marshal Coders",
+  "email": "marshal.coders@gmail.com",
+  "commits": 21
+},{
+  "teamName": "Int Elligence",
+  "email": "keshariananya@gmail.com",
+  "commits": 54
+},{
+  "teamName": "OMEGA",
+  "email": "piyushg.gupta645@gmail.com",
+  "commits": 57
+},{
+  "teamName": "Anonymous",
+  "email": "Jindalshivani11@gmail.com",
+  "commits": 37
+},{
+  "teamName": "Int Elligence",
+  "email": "keshariananya@gmail.com",
+  "commits": 18
+},{
+  "teamName": "sudo win",
+  "email": "vinayakk.garg99@gmail.com",
+  "commits": 420
+},{
+  "teamName": "goGetters",
+  "email": "tanmay.s97@gmail.com",
+  "commits": 41
+},{
+  "teamName": "The Environmentalist",
+  "email": "guptaujjwal1128@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Arjuna",
+  "email": "vasu.awatramani@gmail.com",
+  "commits": 255
+},{
+  "teamName": "Rufus",
+  "email": "hkamboj2603199@gmail.com",
+  "commits": 177
+},{
+  "teamName": "Inventarous",
+  "email": "garvitagl@gmail.com",
+  "commits": 19
+},{
+  "teamName": "BugBusters",
+  "email": "ps20maths@gmail.com",
+  "commits": 257
+},{
+  "teamName": "FTS",
+  "email": "avi17223@iiitd.ac.in",
+  "commits": 122
+},{
+  "teamName": "Reverlash",
+  "email": "harshit.kohli1997@gmail.com",
+  "commits": 50
+},{
+  "teamName": "Droid_Brothers",
+  "email": "vashisht.s21295@gmail.com",
+  "commits": 367
+},{
+  "teamName": "Infinite Loop",
+  "email": "amartyabiswas001@gmail.com",
+  "commits": 165
+},{
+  "teamName": "ASAN",
+  "email": "ab555@snu.edu.in",
+  "commits": 128
+},{
+  "teamName": "Team A",
+  "email": "dpkbhardwaj2580@gmail.com",
+  "commits": 56
+},{
+  "teamName": "Fruitchill",
+  "email": "ritviksinghrautela@gmail.com",
+  "commits": 391
+},{
+  "teamName": "9TH BIT",
+  "email": "kjcdude97@gmail.com",
+  "commits": 7
+},{
+  "teamName": "9TH BIT",
+  "email": "kjcdude97@gmail.com",
+  "commits": 1
+},{
+  "teamName": "The Hack Backpackers",
+  "email": "sauravprakash999@gmail.com",
+  "commits": 141
+},{
+  "teamName": "TEAM 101",
+  "email": "devanshbatra04@gmail.com",
+  "commits": 23
+},{
+  "teamName": "jai mata di",
+  "email": "siladityaa@gmail.com",
+  "commits": 6
+},{
+  "teamName": "bat-coders",
+  "email": "anurags153@gmail.com",
+  "commits": 3
+},{
+  "teamName": "Zabalabadubb",
+  "email": "saggieb12@gmail.com",
+  "commits": 6
+},{
+  "teamName": "Make Believe",
+  "email": "shashwatgulyani@gmail.com",
+  "commits": 706
+},{
+  "teamName": "TeamNotFound404",
+  "email": "aastha980@gmail.com",
+  "commits": 36
+},{
+  "teamName": "Linguistic Pandas",
+  "email": "vasugupta7052@gmail.com",
+  "commits": 6
+},{
+  "teamName": "goGetters",
+  "email": "tanmay.s97@gmail.com",
+  "commits": 24
+},{
+  "teamName": "HackPerts",
+  "email": "naman.mohan09@gmail.com",
+  "commits": 106
+},{
+  "teamName": "Team Tortoise",
+  "email": "rishabhmalik249@gmail.com",
+  "commits": 18
+},{
+  "teamName": "Super Hackers",
+  "email": "akshatbhargavadeepa@gmail.com",
+  "commits": 10
+},{
+  "teamName": "FTS",
+  "email": "avi17223@iiitd.ac.in",
+  "commits": 7
+},{
+  "teamName": "Droid_Brothers",
+  "email": "vashisht.s21295@gmail.com",
+  "commits": 207
+},{
+  "teamName": "Reverlash",
+  "email": "harshit.kohli1997@gmail.com",
+  "commits": 565
+},{
+  "teamName": "TODO",
+  "email": "madhav.khoslaa@gmail.com",
+  "commits": 1
+},{
+  "teamName": "Pseudo101",
+  "email": "ishaanofficial28@gmail.com",
+  "commits": 70
+},{
+  "teamName": "Anonymous",
+  "email": "Jindalshivani11@gmail.com",
+  "commits": 1
+},{
+  "teamName": "TeamNotFound404",
+  "email": "aastha980@gmail.com",
+  "commits": 21
+},{
+  "teamName": "Coolista",
+  "email": "jhashankar0077@gmail.com",
+  "commits": 11
+},{
+  "teamName": "Snow",
+  "email": "kumar.anand.rai@gmail.com",
+  "commits": 91
+},{
+  "teamName": "the hitmen",
+  "email": "nikhilksingh97@gmail.com",
+  "commits": 56
+},{
+  "teamName": "TechBot Karma",
+  "email": "nirvanasinha@gmail.com",
+  "commits": 0
+},{
+  "teamName": "OMEGA",
+  "email": "piyushg.gupta645@gmail.com",
+  "commits": 20
+},{
+  "teamName": "Log Horizon",
+  "email": "yashup1997@gmail.com",
+  "commits": 0
+},{
+  "teamName": "sudo win",
+  "email": "vinayakk.garg99@gmail.com",
+  "commits": 6
+},{
+  "teamName": "Xclusive Coders",
+  "email": "yadavsourav24071998@gmail.com",
+  "commits": 81
+},{
+  "teamName": "Sudo_apt_hack",
+  "email": "bipinkalra@gmail.com",
+  "commits": 405
+},{
+  "teamName": "Sudo_apt_hack",
+  "email": "bipinkalra@gmail.com",
+  "commits": 27
+},

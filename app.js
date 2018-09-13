@@ -1,4 +1,3 @@
-const { getAuthor } = require('./Authors/getAuthor');
+const data = require("./data.json");
 
-console.log(getAuthor('arpit73'));
-
+console.log(data.length);
