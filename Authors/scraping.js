@@ -6,9 +6,10 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 
 const data = require('../Data/results_test.json');
-var commitLogs = [];
 
-let getAuthor = data => {
+const commitLogs = [];
+
+const getAuthor = data => {
     for (let registration of data) {
         let Team = {
             teamName: '',
@@ -42,40 +43,31 @@ let getAuthor = data => {
         let count = 0;
         //emails = emails.filter(email => email.length > 0);
         handles = handles.filter(handle => handle.id.length > 0);
+
         for (let handle of handles) {
-            let options = {
-                uri: `${handle.id}`,
-                method: 'GET',
-                headers: {
-                    'User-Agent': 'Request-Promise'
-                }
-                //transform: body => cheerio.load(body)
-            };
-
             // console.log(Team);
-
-            axios
-                .get(handle.id)
-                .then(res => {
-                    if (res.status === 200) {
-                        const html = res.data;
-                        const $ = cheerio.load(html);
-                        let element = $('.f4.text-normal.mb-2').text();
-                        let name = $(
-                            '.p-name.vcard-fullname.d-block.overflow-hidden'
-                        ).text();
-                        let numbers = element.match(/\d+/g).map(Number);
-                        Team.commits = numbers[0];
-                        Team.email = handle.email;
-                        Team.github = handle.id;
-                        console.log(Team);
-                    }
-                })
-                .catch(err => {
-                    console.log(err);
-                });
+            getData = async () => {
+                const response = await axios.get(handle.id);
+                const html = response.data;
+                const $ = cheerio.load(html);
+                let element = $('.f4.text-normal.mb-2').text();
+                let name = $(
+                    '.p-name.vcard-fullname.d-block.overflow-hidden'
+                ).text();
+                let numbers = element.match(/\d+/g).map(Number);
+                Team.commits = numbers[0];
+                Team.email = handle.email;
+                Team.github = handle.id;
+                //console.log(Team);
+                commitLogs.push(Team);
+                fs.appendFileSync(
+                    'data.json',
+                    JSON.stringify(Team, null, 2) + ',',
+                    'utf-8'
+                );
+            };
+            getData();
         }
     }
 };
-//console.log(commitLogs);
 getAuthor(data);
