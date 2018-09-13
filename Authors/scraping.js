@@ -1,11 +1,8 @@
-const rp = require('request-promise');
-const request = require('request');
-
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const data = require('../Data/results_test.json');
+const data = require('../Data/results.json');
 
 const commitLogs = [];
 
