@@ -1,12 +1,14 @@
 const rp = require('request-promise');
+const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const data = require('../Data/results.json');
+const data = require('../Data/results_test.json');
 
-getAuthor = data => {
-    let count = 0;
-    data.forEach(registration => {
+var commitLogs = [];
+
+let getAuthor = async data => {
+    await data.forEach(async registration => {
         let Team = {
             teamName: '',
             email: '',
@@ -16,44 +18,51 @@ getAuthor = data => {
         let teamName = registration['Team Name'];
         Team.teamName = teamName;
         let handles = [
-            registration.git1,
-            registration.git2,
-            registration.git3,
-            registration.git4,
-            registration.git5
+            {
+                id: registration.git1,
+                email: registration['Email Id of 1st member']
+            },
+            {
+                id: registration.git2,
+                email: registration['Email Id of 2nd member']
+            },
+            {
+                id: registration.git3,
+                email: registration['Email Id of 3rd member']
+            },
+            {
+                id: registration.git4,
+                email: registration['Email Id of 4th member']
+            },
+            {
+                id: registration.git5,
+                email: registration['Email Id of 5th member']
+            }
         ];
-        Team.email = registration['Email Address'];
 
         //emails = emails.filter(email => email.length > 0);
-        handles = handles.filter(handle => handle.length > 0);
+        handles = handles.filter(handle => handle.id.length > 0);
 
-        handles.forEach(handle => {
-           
+        await handles.forEach(async handle => {
             let options = {
-                uri: `${handle}`,
+                uri: `${handle.id}`,
+                method: 'GET',
                 headers: {
                     'User-Agent': 'Request-Promise'
                 },
                 transform: body => cheerio.load(body)
             };
-            rp(options)
-                .then($ => {
-                    var element = $('.f4.text-normal.mb-2').text();
-                    var numbers = element.match(/\d+/g).map(Number);
-                    Team.commits = numbers[0];
-
-                   //console.log(Team);
-                    fs.appendFileSync(
-                        'data.json',
-                        JSON.stringify(Team, null, 2) + ',',
-                        'utf-8'
-                    );
-                })
-                .catch(err => {
-                    console.log(err);
-                });
+            Team.email = handle.email;
+            // console.log(Team);
+            await request(options, async (error, response, body) => {
+                let $ = cheerio.load(body);
+                // let element = await $('.f4.text-normal.mb-2').text();
+                // let numbers = await element.match(/\d+/g).map(Number);
+                // Team.commits = await numbers[0];
+                console.log(body);
+            });
         });
     });
 };
-
+//console.log(commitLogs);
 getAuthor(data);
