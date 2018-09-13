@@ -12,36 +12,31 @@ let getAuthor = data => {
     for (let registration of data) {
         let Team = {
             teamName: '',
+            github: '',
             email: '',
-            commits: 0,
-            num: 0
+            commits: 0
         };
         Team.teamName = registration['Team Name'];
         let handles = [
             {
                 id: registration.git1,
-                email: registration['Email Id of 1st member'],
-                num: 1
+                email: registration['Email Id of 1st member']
             },
             {
                 id: registration.git2,
-                email: registration['Email Id of 2nd member'],
-                num: 2
+                email: registration['Email Id of 2nd member']
             },
             {
                 id: registration.git3,
-                email: registration['Email Id of 3rd member'],
-                num: 3
+                email: registration['Email Id of 3rd member']
             },
             {
                 id: registration.git4,
-                email: registration['Email Id of 4th member'],
-                num: 4
+                email: registration['Email Id of 4th member']
             },
             {
                 id: registration.git5,
-                email: registration['Email Id of 5th member'],
-                num: 5
+                email: registration['Email Id of 5th member']
             }
         ];
         let count = 0;
@@ -56,32 +51,29 @@ let getAuthor = data => {
                 }
                 //transform: body => cheerio.load(body)
             };
-            Team.email = handle.email;
+
             // console.log(Team);
 
             axios
                 .get(handle.id)
                 .then(res => {
-                    if (response.status === 200) {
-                        console.log(res);
+                    if (res.status === 200) {
+                        const html = res.data;
+                        const $ = cheerio.load(html);
+                        let element = $('.f4.text-normal.mb-2').text();
+                        let name = $(
+                            '.p-name.vcard-fullname.d-block.overflow-hidden'
+                        ).text();
+                        let numbers = element.match(/\d+/g).map(Number);
+                        Team.commits = numbers[0];
+                        Team.email = handle.email;
+                        Team.github = handle.id;
+                        console.log(Team);
                     }
                 })
                 .catch(err => {
                     console.log(err);
                 });
-            // request(options, async (error, response, body) => {
-            //     let $ = await cheerio.load(body);
-            //     let element = await $('.f4.text-normal.mb-2').text();
-            //     let name = await $(
-            //         '.p-name.vcard-fullname.d-block.overflow-hidden'
-            //     ).text();
-            //     let numbers = await element.match(/\d+/g).map(Number);
-            //     Team.commits = await numbers[0];
-            //     Team.num = await handle.num;
-            //     await console.log(name);
-            //     console.log(count);
-            //     count++;
-            // });
         }
     }
 };
