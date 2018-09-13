@@ -55,11 +55,11 @@ let getAuthor = async data => {
             Team.email = handle.email;
             // console.log(Team);
             await request(options, async (error, response, body) => {
-                let $ = cheerio.load(body);
-                // let element = await $('.f4.text-normal.mb-2').text();
-                // let numbers = await element.match(/\d+/g).map(Number);
-                // Team.commits = await numbers[0];
-                console.log(body);
+                let $ = await cheerio.load(body);
+                let element = await $('.f4.text-normal.mb-2').text();
+                let numbers = await element.match(/\d+/g).map(Number);
+                Team.commits = await numbers[0];
+                console.log(Team);
             });
         });
     });
