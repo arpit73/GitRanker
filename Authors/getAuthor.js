@@ -26,6 +26,7 @@ getAuthor = data => {
             registration.git4,
             registration.git5
         ];
+        
 
         handles = handles.filter(handle => handle.length > 0);
         handles = handles.map(handle => handle.slice(19, handle.length));
