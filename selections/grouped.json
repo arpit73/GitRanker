@@ -13,6 +13,32 @@
       "commits": 3
     }
   ],
+  "Caffeine Cachers": [
+    {
+      "teamName": "Caffeine Cachers",
+      "github": "http://github.com/bajajerk",
+      "email": "bajaj3743@gmail.com",
+      "commits": 793
+    },
+    {
+      "teamName": "Caffeine Cachers",
+      "github": "http://github.com/addiegupta",
+      "email": "addiegupta@gmail.com",
+      "commits": 504
+    },
+    {
+      "teamName": "Caffeine Cachers",
+      "github": "https://github.com/abhi2898",
+      "email": "jainab.2009@gmail.com",
+      "commits": 32
+    },
+    {
+      "teamName": "Caffeine Cachers",
+      "github": "https://github.com/jainvatsal77",
+      "email": "jainvatsal1137@gmail.com",
+      "commits": 0
+    }
+  ],
   "LHash": [
     {
       "teamName": "LHash",
@@ -73,6 +99,18 @@
       "github": "https://github.com/iamgrawal",
       "email": "gaurav.rawal66@gmail.com",
       "commits": 609
+    },
+    {
+      "teamName": "NoOne",
+      "github": "https://www.github.com/sbrocks",
+      "email": "shaury29.baranwal@gmail.com",
+      "commits": 162
+    },
+    {
+      "teamName": "NoOne",
+      "github": "https://www.github.com/nikhil722sharma",
+      "email": "nikhil722sharma@gmail.com",
+      "commits": 69
     },
     {
       "teamName": "NoOne",
@@ -282,7 +320,7 @@
       "teamName": "AA Battery",
       "github": "https://github.com/ankushgarg1998",
       "email": "ankushgarg@ieee.org",
-      "commits": 421
+      "commits": 424
     },
     {
       "teamName": "AA Battery",
@@ -297,18 +335,24 @@
       "commits": 7
     }
   ],
-  "Fruitchill": [
+  "Sudo_apt_hack": [
     {
-      "teamName": "Fruitchill",
-      "github": "https://github.com/silent-lad",
-      "email": "divyansh2998@icloud.com",
-      "commits": 394
+      "teamName": "Sudo_apt_hack",
+      "github": "https://www.github.com/jatinkatyal13",
+      "email": "jatin.katyal13@gmail.com",
+      "commits": 408
     },
     {
-      "teamName": "Fruitchill",
-      "github": "https://github.com/ritik-rathi",
-      "email": "rathi27ritik@gmail.com",
-      "commits": 11
+      "teamName": "Sudo_apt_hack",
+      "github": "https://www.github.com/rohangrg",
+      "email": "rohan.grg98@gmail.com",
+      "commits": 27
+    },
+    {
+      "teamName": "Sudo_apt_hack",
+      "github": "https://www.github.com/bipinkalra",
+      "email": "bipinkalra@gmail.com",
+      "commits": 8
     }
   ],
   "code in blood": [
@@ -337,6 +381,20 @@
       "commits": 16
     }
   ],
+  "Fruitchill": [
+    {
+      "teamName": "Fruitchill",
+      "github": "https://github.com/silent-lad",
+      "email": "divyansh2998@icloud.com",
+      "commits": 394
+    },
+    {
+      "teamName": "Fruitchill",
+      "github": "https://github.com/ritik-rathi",
+      "email": "rathi27ritik@gmail.com",
+      "commits": 11
+    }
+  ],
   "Arjuna": [
     {
       "teamName": "Arjuna",
@@ -346,9 +404,41 @@
     },
     {
       "teamName": "Arjuna",
+      "github": "https://www.github.com/savitoj98",
+      "email": "savitojjaswal@gmail.com",
+      "commits": 304
+    },
+    {
+      "teamName": "Arjuna",
+      "github": "https://www.github.com/meghansh36",
+      "email": "meghansh36@gmail.com",
+      "commits": 255
+    },
+    {
+      "teamName": "Arjuna",
+      "github": "https://www.github.com/mb11797",
+      "email": "mb.manasbhardwaj@gmail.com",
+      "commits": 159
+    },
+    {
+      "teamName": "Arjuna",
       "github": "https://github.com/harshita133",
       "email": "harshitaj270@gmail.com",
       "commits": 36
+    }
+  ],
+  "Droid_Brothers": [
+    {
+      "teamName": "Droid_Brothers",
+      "github": "https://www.github.com/thedevelopersanjeev",
+      "email": "sharmasanjeev6854@gmail.com",
+      "commits": 370
+    },
+    {
+      "teamName": "Droid_Brothers",
+      "github": "https://www.github.com/shubhamvashisht",
+      "email": "vashisht.s21295@gmail.com",
+      "commits": 207
     }
   ],
   "Pseudo101": [
@@ -363,6 +453,46 @@
       "github": "https://github.com/Ishaan28malik",
       "email": "ishaanofficial28@gmail.com",
       "commits": 72
+    }
+  ],
+  "Super Hackers": [
+    {
+      "teamName": "Super Hackers",
+      "github": "https://www.github.com/akshatbhargava123/",
+      "email": "Akshatbhargavadeepa@gmail.com",
+      "commits": 356
+    },
+    {
+      "teamName": "Super Hackers",
+      "github": "https://www.github.com/sakshisrivastava413/",
+      "email": "sakshisrivastava413@gmail.com",
+      "commits": 124
+    },
+    {
+      "teamName": "Super Hackers",
+      "github": "https://www.github.com/kanishkgupta19/",
+      "email": "Kanishkgupta19@gmail.com",
+      "commits": 10
+    },
+    {
+      "teamName": "Super Hackers",
+      "github": "https://www.github.com/abhishek-shrm",
+      "email": "abhishek.shrm.2195@gmail.com",
+      "commits": 7
+    }
+  ],
+  "supercalifragilisticexpialidocious hackers": [
+    {
+      "teamName": "supercalifragilisticexpialidocious hackers",
+      "github": "http://github.com/akshatbhargava123/",
+      "email": "akshatbhargavadeepa@gmail.com",
+      "commits": 356
+    },
+    {
+      "teamName": "supercalifragilisticexpialidocious hackers",
+      "github": "https://github.com/sakshisrivastava413",
+      "email": "sakshisrivastava413@gmail.com",
+      "commits": 124
     }
   ],
   "Lunatic hackers": [
@@ -497,6 +627,20 @@
       "commits": 87
     }
   ],
+  "Hack_MSIJ": [
+    {
+      "teamName": "Hack_MSIJ",
+      "github": "http://github.com/HarendraSingh22",
+      "email": "harendrasingh2205@gmail.com",
+      "commits": 320
+    },
+    {
+      "teamName": "Hack_MSIJ",
+      "github": "http://github.com/bajpaiarjun0333",
+      "email": "bajpaiarjun0333@gmail.com",
+      "commits": 16
+    }
+  ],
   "TODO": [
     {
       "teamName": "TODO",
@@ -532,14 +676,14 @@
   "HackedOnce": [
     {
       "teamName": "HackedOnce",
-      "github": "https://github.com/manishekaneja",
-      "email": "manishekaneja@gmail.com",
+      "github": "https://github.com/parulagg27",
+      "email": "parulagg27@gmail.com",
       "commits": 309
     },
     {
       "teamName": "HackedOnce",
-      "github": "https://github.com/parulagg27",
-      "email": "parulagg27@gmail.com",
+      "github": "https://github.com/manishekaneja",
+      "email": "manishekaneja@gmail.com",
       "commits": 309
     },
     {
@@ -561,6 +705,38 @@
       "commits": 4
     }
   ],
+  "InstillCoders": [
+    {
+      "teamName": "InstillCoders",
+      "github": "https://www.github.com/hi-manshu-kumar",
+      "email": "himanshu.kumar394@gmail.com",
+      "commits": 296
+    },
+    {
+      "teamName": "InstillCoders",
+      "github": "https://github.com/NischalJakhar",
+      "email": "nischaljakhar@gmail.com",
+      "commits": 216
+    },
+    {
+      "teamName": "InstillCoders",
+      "github": "https://www.github.com/ratnani1996",
+      "email": "himansuratnani1996@gmail.com",
+      "commits": 151
+    },
+    {
+      "teamName": "InstillCoders",
+      "github": "https://www.github.com/prateek951",
+      "email": "prince.cenation@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "InstillCoders",
+      "github": "https://github.com/aayushtiwari",
+      "email": "aayushtiwari8@gmail.com",
+      "commits": 1
+    }
+  ],
   "noobs": [
     {
       "teamName": "noobs",
@@ -575,12 +751,44 @@
       "commits": 216
     }
   ],
+  "Dobie": [
+    {
+      "teamName": "Dobie",
+      "github": "https://github.com/pratyush1687",
+      "email": "pratyush1687@gmail.com",
+      "commits": 291
+    },
+    {
+      "teamName": "Dobie",
+      "github": "https://github.com/aishanya11",
+      "email": "aishanya1999@gmail.com",
+      "commits": 107
+    },
+    {
+      "teamName": "Dobie",
+      "github": "https://github.com/thisisraghavkumar",
+      "email": "thisisraghavkumar@gmail.com",
+      "commits": 51
+    },
+    {
+      "teamName": "Dobie",
+      "github": "https://github.com/damakbajaj98",
+      "email": "damakbajaj98@gmail.com",
+      "commits": 36
+    }
+  ],
   "the hitmen": [
     {
       "teamName": "the hitmen",
       "github": "https://github.com/nikhilkumarsingh",
       "email": "nikhilksingh97@gmail.com",
       "commits": 288
+    },
+    {
+      "teamName": "the hitmen",
+      "github": "http://github.com/sanchit3008",
+      "email": "sanchit3008@gmail.com",
+      "commits": 157
     },
     {
       "teamName": "the hitmen",
@@ -594,7 +802,7 @@
       "teamName": "BugBusters",
       "github": "https://github.com/Dhruvjain2000",
       "email": "dhruvjain22122000@gmail.com",
-      "commits": 284
+      "commits": 285
     },
     {
       "teamName": "BugBusters",
@@ -693,6 +901,32 @@
       "commits": 13
     }
   ],
+  "idliSambhar": [
+    {
+      "teamName": "idliSambhar",
+      "github": "http://github.com/im-gozmit/",
+      "email": "mayankapex3@gmail.com",
+      "commits": 266
+    },
+    {
+      "teamName": "idliSambhar",
+      "github": "https://github.com/FizzyPM",
+      "email": "munjal.pranav14@gmail.com",
+      "commits": 83
+    },
+    {
+      "teamName": "idliSambhar",
+      "github": "https://github.com/arvindpunk",
+      "email": "arvindpunk@gmail.com",
+      "commits": 12
+    },
+    {
+      "teamName": "idliSambhar",
+      "github": "https://github.com/Samyak-jain7",
+      "email": "sj221097@gmail.com",
+      "commits": 0
+    }
+  ],
   "Developer Bros": [
     {
       "teamName": "Developer Bros",
@@ -721,12 +955,38 @@
       "commits": 70
     }
   ],
+  "Bits 'n' Bytes": [
+    {
+      "teamName": "Bits 'n' Bytes",
+      "github": "https://github.com/Prashant-123",
+      "email": "pk021998@gmail.com",
+      "commits": 261
+    },
+    {
+      "teamName": "Bits 'n' Bytes",
+      "github": "https://github.com/Tanvi-Goyal",
+      "email": "goyaltanvni94@gmail.com",
+      "commits": 199
+    },
+    {
+      "teamName": "Bits 'n' Bytes",
+      "github": "https://github.com/srishti1998",
+      "email": "srishtizen@gmail.com",
+      "commits": 33
+    }
+  ],
   "BetaHackers": [
     {
       "teamName": "BetaHackers",
       "github": "https://github.com/Amanchouhan192",
       "email": "amanchouhan192@gmail.com",
       "commits": 248
+    },
+    {
+      "teamName": "BetaHackers",
+      "github": "https://github.com/Rishabh786Singh",
+      "email": "rishabhfiit@gmail.com",
+      "commits": 16
     }
   ],
   "qwerty": [
@@ -774,7 +1034,7 @@
       "teamName": "Coders",
       "github": "https://github.com/hackbansu",
       "email": "bansal.pawan96@gmail.com",
-      "commits": 222
+      "commits": 224
     },
     {
       "teamName": "Coders",
@@ -821,26 +1081,6 @@
       "commits": 13
     }
   ],
-  "InstillCoders": [
-    {
-      "teamName": "InstillCoders",
-      "github": "https://github.com/NischalJakhar",
-      "email": "nischaljakhar@gmail.com",
-      "commits": 216
-    },
-    {
-      "teamName": "InstillCoders",
-      "github": "https://github.com/aayushtiwari",
-      "email": "aayushtiwari8@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "InstillCoders",
-      "github": "https://www.github.com/prateek951",
-      "email": "prince.cenation@gmail.com",
-      "commits": 1
-    }
-  ],
   "Log Horizon": [
     {
       "teamName": "Log Horizon",
@@ -859,6 +1099,32 @@
       "github": "https://github.com/AmartyoRoy",
       "email": "amartyo09@gmail.com",
       "commits": 0
+    }
+  ],
+  "New Folder (1)": [
+    {
+      "teamName": "New Folder (1)",
+      "github": "https://github.com/abhishek-nigam",
+      "email": "abhisheknigam1996@gmail.com",
+      "commits": 204
+    },
+    {
+      "teamName": "New Folder (1)",
+      "github": "https://github.com/kinetickansra",
+      "email": "kinetickansra@gmail.com",
+      "commits": 34
+    },
+    {
+      "teamName": "New Folder (1)",
+      "github": "https://github.com/hit4man47",
+      "email": "vishwassingh910@gmail.com",
+      "commits": 15
+    },
+    {
+      "teamName": "New Folder (1)",
+      "github": "https://github.com/ApsMJ23",
+      "email": "apurvalion@gmail.com",
+      "commits": 5
     }
   ],
   "The Innovators": [
@@ -885,6 +1151,32 @@
       "github": "https://github.com/aloksingh3112",
       "email": "aloksingh3112@gmail.com",
       "commits": 21
+    }
+  ],
+  "Xclusive Coders": [
+    {
+      "teamName": "Xclusive Coders",
+      "github": "https://github.com/suesanz",
+      "email": "yadavsourav24071998@gmail.com",
+      "commits": 185
+    },
+    {
+      "teamName": "Xclusive Coders",
+      "github": "https://github.com/sid-1998",
+      "email": "sid.pahuja2008@gmail.com",
+      "commits": 82
+    },
+    {
+      "teamName": "Xclusive Coders",
+      "github": "https://github.com/uditkumar13",
+      "email": "ukgotalent@gmail.com",
+      "commits": 57
+    },
+    {
+      "teamName": "Xclusive Coders",
+      "github": "https://github.com/ayush51",
+      "email": "",
+      "commits": 40
     }
   ],
   "Codingthugs": [
@@ -917,32 +1209,6 @@
       "github": "https://github.com/Arpit-jain4",
       "email": "arpit.arpit.jain5@gmail.com",
       "commits": 14
-    }
-  ],
-  "Xclusive Coders": [
-    {
-      "teamName": "Xclusive Coders",
-      "github": "https://github.com/suesanz",
-      "email": "yadavsourav24071998@gmail.com",
-      "commits": 185
-    },
-    {
-      "teamName": "Xclusive Coders",
-      "github": "https://github.com/sid-1998",
-      "email": "sid.pahuja2008@gmail.com",
-      "commits": 82
-    },
-    {
-      "teamName": "Xclusive Coders",
-      "github": "https://github.com/uditkumar13",
-      "email": "ukgotalent@gmail.com",
-      "commits": 57
-    },
-    {
-      "teamName": "Xclusive Coders",
-      "github": "https://github.com/ayush51",
-      "email": "",
-      "commits": 40
     }
   ],
   "Jamia Sophomore": [
@@ -994,14 +1260,14 @@
     },
     {
       "teamName": "techguys",
-      "github": "https://github.com/Waseem-Ahmad-Dar",
-      "email": "waseem.ahmad.dar78@gmail.com",
+      "github": "https://github.com/libraryiot",
+      "email": "mayank.aggarwal9919@gmail.com",
       "commits": 1
     },
     {
       "teamName": "techguys",
-      "github": "https://github.com/libraryiot",
-      "email": "mayank.aggarwal9919@gmail.com",
+      "github": "https://github.com/Waseem-Ahmad-Dar",
+      "email": "waseem.ahmad.dar78@gmail.com",
       "commits": 1
     }
   ],
@@ -1057,6 +1323,18 @@
       "github": "https://github.com/dharmikpopat",
       "email": "dharmikpopat23@gmail.com",
       "commits": 18
+    },
+    {
+      "teamName": "Debuggers",
+      "github": "https://github.com/rajshukla865",
+      "email": "rajshukla865@gmail.com",
+      "commits": 10
+    },
+    {
+      "teamName": "Debuggers",
+      "github": "https://github.com/rb1450",
+      "email": "murganrbala04@gmail.com",
+      "commits": 8
     }
   ],
   "bat-coders": [
@@ -1080,12 +1358,24 @@
     },
     {
       "teamName": "bat-coders",
+      "github": "http://github.com/NishchayAnand",
+      "email": "nishchay.anand63@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "bat-coders",
       "github": "https://github.com/jatingera1",
       "email": "geraj@ymail.com",
       "commits": 1
     }
   ],
   "The Hack Backpackers": [
+    {
+      "teamName": "The Hack Backpackers",
+      "github": "https://www.github.com/manikdhupar",
+      "email": "manik.dhupar7@gmail.com",
+      "commits": 149
+    },
     {
       "teamName": "The Hack Backpackers",
       "github": "https://www.github.com/spdev7",
@@ -1120,6 +1410,12 @@
     },
     {
       "teamName": "Team",
+      "github": "https://github.com/utkace",
+      "email": "utkarshm27@gmail.com",
+      "commits": 44
+    },
+    {
+      "teamName": "Team",
       "github": "https://github.com/tejasbedi1",
       "email": "tejas.bedi1@gmail.com",
       "commits": 5
@@ -1143,6 +1439,32 @@
       "github": "https://github.com/Tushantbhasker",
       "email": "tushantbhasker@gmail.com",
       "commits": 22
+    }
+  ],
+  "5-Chammiya": [
+    {
+      "teamName": "5-Chammiya",
+      "github": "http://www.github.com/ankk98",
+      "email": "ankk98@gmail.com",
+      "commits": 129
+    },
+    {
+      "teamName": "5-Chammiya",
+      "github": "http://www.github.com/capedcrusader23",
+      "email": "uphaar23dubey@gmail.com",
+      "commits": 65
+    },
+    {
+      "teamName": "5-Chammiya",
+      "github": "http://www.github.com/nine-tails9",
+      "email": "deepanshu.gandhi25@gmail.com",
+      "commits": 21
+    },
+    {
+      "teamName": "5-Chammiya",
+      "github": "http://www.github.com/zz143",
+      "email": "deepanshuh143@gmail.com",
+      "commits": 15
     }
   ],
   "ASAN": [
@@ -1197,12 +1519,24 @@
       "commits": 13
     }
   ],
-  "supercalifragilisticexpialidocious hackers": [
+  "Dracarys": [
     {
-      "teamName": "supercalifragilisticexpialidocious hackers",
-      "github": "https://github.com/sakshisrivastava413",
-      "email": "sakshisrivastava413@gmail.com",
-      "commits": 124
+      "teamName": "Dracarys",
+      "github": "https://github.com/diksha-giri013",
+      "email": "diksha.giri013@gmail.com",
+      "commits": 125
+    },
+    {
+      "teamName": "Dracarys",
+      "github": "http://www.github.com/rana11shubham",
+      "email": "rana11shubham@gmail.com",
+      "commits": 94
+    },
+    {
+      "teamName": "Dracarys",
+      "github": "https://github.com/abhinav2804",
+      "email": "abhinavk2804@gmail.com",
+      "commits": 0
     }
   ],
   "FTS": [
@@ -1263,6 +1597,12 @@
       "github": "https://github.com/altruistcoder",
       "email": "rishabhaggarwal0101@gmail.com",
       "commits": 43
+    },
+    {
+      "teamName": "Complexity Busters",
+      "github": "https://github.com/satanpr",
+      "email": "rahul.prsd.in@gmail.com",
+      "commits": 38
     }
   ],
   "Future Gadgets Lab": [
@@ -1297,24 +1637,68 @@
       "commits": 1
     }
   ],
-  "Dobie": [
+  "Enigmas": [
     {
-      "teamName": "Dobie",
-      "github": "https://github.com/aishanya11",
-      "email": "aishanya1999@gmail.com",
-      "commits": 107
+      "teamName": "Enigmas",
+      "github": "https://github.com/Yash-Handa",
+      "email": "yashhanda7@yahoo.com",
+      "commits": 112
     },
     {
-      "teamName": "Dobie",
-      "github": "https://github.com/thisisraghavkumar",
-      "email": "thisisraghavkumar@gmail.com",
-      "commits": 51
+      "teamName": "Enigmas",
+      "github": "https://github.com/Panzer3232",
+      "email": "ashrianmol13@gmail.com",
+      "commits": 31
     },
     {
-      "teamName": "Dobie",
-      "github": "https://github.com/damakbajaj98",
-      "email": "damakbajaj98@gmail.com",
-      "commits": 36
+      "teamName": "Enigmas",
+      "github": "https://github.com/pradhumnpanchal",
+      "email": "pradhumn44@gmail.com",
+      "commits": 7
+    },
+    {
+      "teamName": "Enigmas",
+      "github": "https://github.com/Rajat1999",
+      "email": "rajatgour95@gmail.com",
+      "commits": 7
+    },
+    {
+      "teamName": "Enigmas",
+      "github": "https://github.com/shubhampal1898",
+      "email": "shubhampal1898@gmail.com",
+      "commits": 1
+    }
+  ],
+  "Techila 5.0": [
+    {
+      "teamName": "Techila 5.0",
+      "github": "https://github.com/Stenzil",
+      "email": "Stenzilpandey@gmail.com",
+      "commits": 111
+    },
+    {
+      "teamName": "Techila 5.0",
+      "github": "https://github.com/aditya-sahu",
+      "email": "adithebest15@gmail.com",
+      "commits": 85
+    },
+    {
+      "teamName": "Techila 5.0",
+      "github": "https://github.com/bhavayAnand9",
+      "email": "bhavayanand9@gmail.com",
+      "commits": 68
+    },
+    {
+      "teamName": "Techila 5.0",
+      "github": "https://github.com/abhikb101",
+      "email": "abhishek.goel287@gmail.com",
+      "commits": 54
+    },
+    {
+      "teamName": "Techila 5.0",
+      "github": "https://github.com/Chirag1297",
+      "email": "Chiragarora1297@gmail.com",
+      "commits": 24
     }
   ],
   "Codipper": [
@@ -1337,12 +1721,50 @@
       "commits": 14
     }
   ],
+  "Tech Squad": [
+    {
+      "teamName": "Tech Squad",
+      "github": "https://github.com/DevelopedByAnurag",
+      "email": "anuragbatra1999@gmail.com",
+      "commits": 101
+    },
+    {
+      "teamName": "Tech Squad",
+      "github": "https://github.com/v-sinha9004",
+      "email": "vishalsinha15456@gmail.com",
+      "commits": 6
+    },
+    {
+      "teamName": "Tech Squad",
+      "github": "https://github.com/Skp098",
+      "email": "skp09098@gmail.com",
+      "commits": 4
+    },
+    {
+      "teamName": "Tech Squad",
+      "github": "https://github.com/GAGAN-TZUYU",
+      "email": "Gagansingh2016iit@gmail.com",
+      "commits": 4
+    },
+    {
+      "teamName": "Tech Squad",
+      "github": "https://github.com/utkarshtriv",
+      "email": "Utkarsh896041@gmail.com",
+      "commits": 2
+    }
+  ],
   "Hack Elite": [
     {
       "teamName": "Hack Elite",
       "github": "https://github.com/HarshCic",
       "email": "kharsh.hk89@gmail.com",
       "commits": 100
+    },
+    {
+      "teamName": "Hack Elite",
+      "github": "http://github.com/sholkayvishal",
+      "email": "sholkayvishal@ducic.ac.in",
+      "commits": 45
     },
     {
       "teamName": "Hack Elite",
@@ -1387,32 +1809,6 @@
       "commits": 2
     }
   ],
-  "A7a": [
-    {
-      "teamName": "A7a",
-      "github": "https://github.com/MANI14011998",
-      "email": "Immaninder@ieee.org",
-      "commits": 92
-    },
-    {
-      "teamName": "A7a",
-      "github": "https://github.com/why-so-serious1",
-      "email": 8860760963,
-      "commits": 4
-    },
-    {
-      "teamName": "A7a",
-      "github": "https://github.com/priyanshi2910",
-      "email": "priyanshiverma2910@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "A7a",
-      "github": "https://github.com/ac204",
-      "email": "",
-      "commits": 1
-    }
-  ],
   "TeamNotFound404": [
     {
       "teamName": "TeamNotFound404",
@@ -1437,6 +1833,46 @@
       "github": "https://github.com/Swapanasija/",
       "email": "swapanasija1107@gmail.com",
       "commits": 10
+    }
+  ],
+  "A7a": [
+    {
+      "teamName": "A7a",
+      "github": "https://github.com/MANI14011998",
+      "email": "Immaninder@ieee.org",
+      "commits": 92
+    },
+    {
+      "teamName": "A7a",
+      "github": "https://github.com/why-so-serious1",
+      "email": 8860760963,
+      "commits": 4
+    },
+    {
+      "teamName": "A7a",
+      "github": "https://github.com/ac204",
+      "email": "",
+      "commits": 1
+    },
+    {
+      "teamName": "A7a",
+      "github": "https://github.com/priyanshi2910",
+      "email": "priyanshiverma2910@gmail.com",
+      "commits": 1
+    }
+  ],
+  "Snow": [
+    {
+      "teamName": "Snow",
+      "github": "https://github.com/anandkrrai",
+      "email": "kumar.anand.rai@gmail.com",
+      "commits": 91
+    },
+    {
+      "teamName": "Snow",
+      "github": "https://github.com/manavdawar",
+      "email": "Manavdawar5@gmail.com",
+      "commits": 42
     }
   ],
   "Helios": [
@@ -1469,20 +1905,6 @@
       "github": "https://github.com/Adi101997",
       "email": "",
       "commits": 4
-    }
-  ],
-  "Snow": [
-    {
-      "teamName": "Snow",
-      "github": "https://github.com/anandkrrai",
-      "email": "kumar.anand.rai@gmail.com",
-      "commits": 91
-    },
-    {
-      "teamName": "Snow",
-      "github": "https://github.com/manavdawar",
-      "email": "Manavdawar5@gmail.com",
-      "commits": 42
     }
   ],
   "Error 69": [
@@ -1548,43 +1970,15 @@
     },
     {
       "teamName": "NSITCoders",
+      "github": "https://github.com/hssahdev",
+      "email": "harshdeeps.co.17@nsit.net.in",
+      "commits": 82
+    },
+    {
+      "teamName": "NSITCoders",
       "github": "https://github.com/adityadelhi",
       "email": "aadiverma8@gmail.com",
       "commits": 3
-    }
-  ],
-  "Techila 5.0": [
-    {
-      "teamName": "Techila 5.0",
-      "github": "https://github.com/aditya-sahu",
-      "email": "adithebest15@gmail.com",
-      "commits": 85
-    },
-    {
-      "teamName": "Techila 5.0",
-      "github": "https://github.com/bhavayAnand9",
-      "email": "bhavayanand9@gmail.com",
-      "commits": 68
-    },
-    {
-      "teamName": "Techila 5.0",
-      "github": "https://github.com/abhikb101",
-      "email": "abhishek.goel287@gmail.com",
-      "commits": 54
-    },
-    {
-      "teamName": "Techila 5.0",
-      "github": "https://github.com/Chirag1297",
-      "email": "Chiragarora1297@gmail.com",
-      "commits": 24
-    }
-  ],
-  "idliSambhar": [
-    {
-      "teamName": "idliSambhar",
-      "github": "https://github.com/FizzyPM",
-      "email": "munjal.pranav14@gmail.com",
-      "commits": 83
     }
   ],
   "retro06": [
@@ -1685,6 +2079,38 @@
       "commits": 5
     }
   ],
+  "Aficionados": [
+    {
+      "teamName": "Aficionados",
+      "github": "http://github.com/junedraghib",
+      "email": "raghibjuned@gmail.com",
+      "commits": 73
+    },
+    {
+      "teamName": "Aficionados",
+      "github": "http://github.com/adish450",
+      "email": "Adishirfan17@gmail.com",
+      "commits": 34
+    },
+    {
+      "teamName": "Aficionados",
+      "github": "https://github.com/umar1997",
+      "email": "umarsalman08@gmail.com",
+      "commits": 30
+    },
+    {
+      "teamName": "Aficionados",
+      "github": "https://github.com/ArifKhan21",
+      "email": "arif.khan.jmi21@gmail.com",
+      "commits": 17
+    },
+    {
+      "teamName": "Aficionados",
+      "github": "https://github.com/tarunsaini1998",
+      "email": "",
+      "commits": 0
+    }
+  ],
   "Geek squad": [
     {
       "teamName": "Geek squad",
@@ -1697,6 +2123,70 @@
       "github": "https://github.com/pradhyumna98",
       "email": "pradhyumna.purushottam@gmail.com",
       "commits": 22
+    }
+  ],
+  "SKYAM": [
+    {
+      "teamName": "SKYAM",
+      "github": "https://github.com/HalfMomentum",
+      "email": "mm305@snu.edu.in",
+      "commits": 71
+    },
+    {
+      "teamName": "SKYAM",
+      "github": "https://github.com/sahityayo",
+      "email": "sk810@snu.edu.in",
+      "commits": 69
+    },
+    {
+      "teamName": "SKYAM",
+      "github": "https://github.com/cobra27",
+      "email": "as242@snu.edu.in",
+      "commits": 46
+    },
+    {
+      "teamName": "SKYAM",
+      "github": "https://github.com/keshavchandak",
+      "email": "kc339@snu.edu.in",
+      "commits": 6
+    },
+    {
+      "teamName": "SKYAM",
+      "github": "https://github.com/yukti07",
+      "email": "ya750@snu.edu.in",
+      "commits": 1
+    }
+  ],
+  "CodeRex": [
+    {
+      "teamName": "CodeRex",
+      "github": "https://www.github.com/siddhantj929",
+      "email": "siddhantj929@gmail.com",
+      "commits": 71
+    },
+    {
+      "teamName": "CodeRex",
+      "github": "https://github.com/MuskanSr",
+      "email": "muskan.srivastava1904@gmail.com",
+      "commits": 11
+    },
+    {
+      "teamName": "CodeRex",
+      "github": "https://github.com/shi-22",
+      "email": "shivangi22.sr@gmail.com",
+      "commits": 8
+    },
+    {
+      "teamName": "CodeRex",
+      "github": "https://github.com/bhumikamanocha",
+      "email": "bhumika.manocha@gmail.com",
+      "commits": 4
+    },
+    {
+      "teamName": "CodeRex",
+      "github": "http://GitHub.com/Scientist-Ansh",
+      "email": "Email-ansh1999arora@gmail.com",
+      "commits": 1
     }
   ],
   "Team Noob": [
@@ -1756,6 +2246,18 @@
     },
     {
       "teamName": "TEAM 101",
+      "github": "http://github.com/sanjay-kd",
+      "email": "sanjay150898kumar@gmail.com",
+      "commits": 33
+    },
+    {
+      "teamName": "TEAM 101",
+      "github": "http://github.com/KshitijSharma745",
+      "email": "skshitij099@gmail.com",
+      "commits": 23
+    },
+    {
+      "teamName": "TEAM 101",
       "github": "https://github.com/mridulchaba",
       "email": "mridul.chaba@gmail.com",
       "commits": 14
@@ -1767,18 +2269,36 @@
       "commits": 1
     }
   ],
-  "5-Chammiya": [
+  "UShacks": [
     {
-      "teamName": "5-Chammiya",
-      "github": "http://www.github.com/capedcrusader23",
-      "email": "uphaar23dubey@gmail.com",
-      "commits": 65
+      "teamName": "UShacks",
+      "github": "https://github.com/keshavvinayak01",
+      "email": "keshavvinayakjha@gmail.com",
+      "commits": 64
     },
     {
-      "teamName": "5-Chammiya",
-      "github": "http://www.github.com/zz143",
-      "email": "deepanshuh143@gmail.com",
-      "commits": 15
+      "teamName": "UShacks",
+      "github": "http://github.com/aakash0121",
+      "email": "bindalaakash60@gmail.com",
+      "commits": 22
+    },
+    {
+      "teamName": "UShacks",
+      "github": "https://github.com/avik-pandey",
+      "email": "avikpandey1@gmail.com",
+      "commits": 11
+    },
+    {
+      "teamName": "UShacks",
+      "github": "https://github.com/Dhruv-Garg79",
+      "email": "garg.dh123@gmail.com",
+      "commits": 10
+    },
+    {
+      "teamName": "UShacks",
+      "github": "https://github.com/BhanujaAggarwal",
+      "email": "aggarwal.bhanuja@gmail.com",
+      "commits": 1
     }
   ],
   "pydroiders": [
@@ -1799,32 +2319,6 @@
       "github": "https://github.com/rahul3009",
       "email": "chawlarahul1997@gmail.com",
       "commits": 6
-    }
-  ],
-  "UShacks": [
-    {
-      "teamName": "UShacks",
-      "github": "https://github.com/keshavvinayak01",
-      "email": "keshavvinayakjha@gmail.com",
-      "commits": 64
-    },
-    {
-      "teamName": "UShacks",
-      "github": "https://github.com/avik-pandey",
-      "email": "avikpandey1@gmail.com",
-      "commits": 11
-    },
-    {
-      "teamName": "UShacks",
-      "github": "https://github.com/Dhruv-Garg79",
-      "email": "garg.dh123@gmail.com",
-      "commits": 10
-    },
-    {
-      "teamName": "UShacks",
-      "github": "https://github.com/BhanujaAggarwal",
-      "email": "aggarwal.bhanuja@gmail.com",
-      "commits": 1
     }
   ],
   "coding_maniacs": [
@@ -1871,6 +2365,18 @@
       "github": "https://github.com/vanshkapoor",
       "email": "vanshkapoorvk7@gmail.com",
       "commits": 39
+    },
+    {
+      "teamName": "Imperium",
+      "github": "https://github.com/Abhaykaushik",
+      "email": "abhay.gyanbharati@gmail.com",
+      "commits": 24
+    },
+    {
+      "teamName": "Imperium",
+      "github": "https://github.com/NakulTyagi",
+      "email": "nakul1tyagi@gmail.com",
+      "commits": 3
     }
   ],
   "Titans": [
@@ -1919,6 +2425,20 @@
       "commits": 24
     }
   ],
+  "Ninja coders": [
+    {
+      "teamName": "Ninja coders",
+      "github": "https://github.com/skm2408",
+      "email": "shubhammishrabst@gmail.com",
+      "commits": 56
+    },
+    {
+      "teamName": "Ninja coders",
+      "github": "https://github.com/svaish97",
+      "email": "svaish.stp@gmail.com",
+      "commits": 26
+    }
+  ],
   "WhoCares": [
     {
       "teamName": "WhoCares",
@@ -1937,20 +2457,6 @@
       "github": "https://github.com/umeshsati54",
       "email": "umesh",
       "commits": 36
-    }
-  ],
-  "Ninja coders": [
-    {
-      "teamName": "Ninja coders",
-      "github": "https://github.com/skm2408",
-      "email": "shubhammishrabst@gmail.com",
-      "commits": 56
-    },
-    {
-      "teamName": "Ninja coders",
-      "github": "https://github.com/svaish97",
-      "email": "svaish.stp@gmail.com",
-      "commits": 26
     }
   ],
   "Int Elligence": [
@@ -1988,6 +2494,12 @@
     },
     {
       "teamName": "Hash it Out",
+      "github": "https://github.com/PrashantMohan9",
+      "email": "prashantmohan9598@gmail.com",
+      "commits": 23
+    },
+    {
+      "teamName": "Hash it Out",
       "github": "https://github.com/vaibhav32",
       "email": "singh.vaibhav32@gmail.com",
       "commits": 18
@@ -2019,6 +2531,58 @@
       "commits": 1
     }
   ],
+  "Liquid": [
+    {
+      "teamName": "Liquid",
+      "github": "https://github.com/AnkitSatyawali",
+      "email": "ankitsatywali4@gmail.com",
+      "commits": 47
+    },
+    {
+      "teamName": "Liquid",
+      "github": "https://github.com/aashish31f",
+      "email": "aashish31f@gmail.com",
+      "commits": 17
+    },
+    {
+      "teamName": "Liquid",
+      "github": "https://github.com/kartikk98",
+      "email": "kartik2189@gmail.com",
+      "commits": 12
+    },
+    {
+      "teamName": "Liquid",
+      "github": "https://www.github.com/nachiketaraina",
+      "email": "nachiketa.raina98@gmail.com",
+      "commits": 8
+    }
+  ],
+  "Appvengers": [
+    {
+      "teamName": "Appvengers",
+      "github": "https://github.com/AniVerma17",
+      "email": "aniverma10@gmail.com",
+      "commits": 47
+    },
+    {
+      "teamName": "Appvengers",
+      "github": "https://github.com/vips28",
+      "email": "vipulandvipul28@gmail.com",
+      "commits": 35
+    },
+    {
+      "teamName": "Appvengers",
+      "github": "https://github.com/2000abhishek",
+      "email": "jindalabhishek9636920546@gmail.com",
+      "commits": 5
+    },
+    {
+      "teamName": "Appvengers",
+      "github": "https://github.com/smiti-123",
+      "email": "khuranasmiti700@gmail.com",
+      "commits": 2
+    }
+  ],
   "Tech junkies": [
     {
       "teamName": "Tech junkies",
@@ -2031,6 +2595,38 @@
       "github": "https://github.com/abhimonga",
       "email": "abhimonga16@gmail.com",
       "commits": 6
+    }
+  ],
+  "Anonymous": [
+    {
+      "teamName": "Anonymous",
+      "github": "http://github.com/divyanshusharma1709",
+      "email": "sharmadivyanshu1709@gmail.com",
+      "commits": 46
+    },
+    {
+      "teamName": "Anonymous",
+      "github": "https://github.com/jindalshiva",
+      "email": "Jindalshivani11@gmail.com",
+      "commits": 37
+    },
+    {
+      "teamName": "Anonymous",
+      "github": "https://github.com/shivumgrover",
+      "email": "Shivumgrover99@gmail.com",
+      "commits": 29
+    },
+    {
+      "teamName": "Anonymous",
+      "github": "https://github.com/harshitadd",
+      "email": "harshitadd@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Anonymous",
+      "github": "https://github.com/deepasha",
+      "email": "Birladeepasha99@gmail.com",
+      "commits": 1
     }
   ],
   "Zeus": [
@@ -2114,6 +2710,12 @@
     },
     {
       "teamName": "goGetters",
+      "github": "https://www.github.com/taranzz25",
+      "email": "taranzz25@gmail.com",
+      "commits": 24
+    },
+    {
+      "teamName": "goGetters",
       "github": "https://github.com/Lavneetkaur",
       "email": "lavneetkaur96@gmail.com",
       "commits": 9
@@ -2125,20 +2727,12 @@
       "github": "https://github.com/fzd370",
       "email": "shuklashivamk2@gmail.com",
       "commits": 40
-    }
-  ],
-  "Byte Karma": [
-    {
-      "teamName": "Byte Karma",
-      "github": "https://github.com/disha-surana",
-      "email": "disha.mca18.du@gmail.com",
-      "commits": 39
     },
     {
-      "teamName": "Byte Karma",
-      "github": "https://github.com/Anisha-Kathuria",
-      "email": "anisha.mca18.du@gmail.com",
-      "commits": 2
+      "teamName": "Team Bratva",
+      "github": "https://github.com/Udit3008",
+      "email": "uditsameer@gmail.com",
+      "commits": 1
     }
   ],
   "TechGeeks": [
@@ -2155,30 +2749,18 @@
       "commits": 20
     }
   ],
-  "HackMe": [
+  "Byte Karma": [
     {
-      "teamName": "HackMe",
-      "github": "https://github.com/yugantarjain",
-      "email": "yugantar8jain@gmail.com",
-      "commits": 38
+      "teamName": "Byte Karma",
+      "github": "https://github.com/disha-surana",
+      "email": "disha.mca18.du@gmail.com",
+      "commits": 39
     },
     {
-      "teamName": "HackMe",
-      "github": "https://github.com/sarthak-g",
-      "email": "sarthakgupta041@gmail.com",
-      "commits": 24
-    },
-    {
-      "teamName": "HackMe",
-      "github": "https://github.com/shivanigangadharan",
-      "email": "shivani.gangadharan@gmail.com",
-      "commits": 13
-    },
-    {
-      "teamName": "HackMe",
-      "github": "https://github.com/Inika19",
-      "email": "inika.19298@gmail.com",
-      "commits": 0
+      "teamName": "Byte Karma",
+      "github": "https://github.com/Anisha-Kathuria",
+      "email": "anisha.mca18.du@gmail.com",
+      "commits": 2
     }
   ],
   "Team Namaskar": [
@@ -2213,6 +2795,38 @@
       "commits": 8
     }
   ],
+  "HackMe": [
+    {
+      "teamName": "HackMe",
+      "github": "https://github.com/yugantarjain",
+      "email": "yugantar8jain@gmail.com",
+      "commits": 38
+    },
+    {
+      "teamName": "HackMe",
+      "github": "https://github.com/sarthak-g",
+      "email": "sarthakgupta041@gmail.com",
+      "commits": 24
+    },
+    {
+      "teamName": "HackMe",
+      "github": "https://github.com/shivanigangadharan",
+      "email": "shivani.gangadharan@gmail.com",
+      "commits": 13
+    },
+    {
+      "teamName": "HackMe",
+      "github": "http://github.com/manildayma",
+      "email": "manil.dayma.98@gmail.com",
+      "commits": 6
+    },
+    {
+      "teamName": "HackMe",
+      "github": "https://github.com/Inika19",
+      "email": "inika.19298@gmail.com",
+      "commits": 0
+    }
+  ],
   "Linguistic Pandas": [
     {
       "teamName": "Linguistic Pandas",
@@ -2233,46 +2847,6 @@
       "commits": 1
     }
   ],
-  "Anonymous": [
-    {
-      "teamName": "Anonymous",
-      "github": "https://github.com/jindalshiva",
-      "email": "Jindalshivani11@gmail.com",
-      "commits": 37
-    },
-    {
-      "teamName": "Anonymous",
-      "github": "https://github.com/shivumgrover",
-      "email": "Shivumgrover99@gmail.com",
-      "commits": 29
-    },
-    {
-      "teamName": "Anonymous",
-      "github": "https://github.com/harshitadd",
-      "email": "harshitadd@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "Anonymous",
-      "github": "https://github.com/deepasha",
-      "email": "Birladeepasha99@gmail.com",
-      "commits": 1
-    }
-  ],
-  "New Folder (1)": [
-    {
-      "teamName": "New Folder (1)",
-      "github": "https://github.com/kinetickansra",
-      "email": "kinetickansra@gmail.com",
-      "commits": 34
-    },
-    {
-      "teamName": "New Folder (1)",
-      "github": "https://github.com/hit4man47",
-      "email": "vishwassingh910@gmail.com",
-      "commits": 15
-    }
-  ],
   "Trojan": [
     {
       "teamName": "Trojan",
@@ -2285,40 +2859,6 @@
       "github": "https://github.com/gmjjatin",
       "email": "gmjjatin@gmail.com",
       "commits": 6
-    }
-  ],
-  "Caffeine Cachers": [
-    {
-      "teamName": "Caffeine Cachers",
-      "github": "https://github.com/abhi2898",
-      "email": "jainab.2009@gmail.com",
-      "commits": 32
-    },
-    {
-      "teamName": "Caffeine Cachers",
-      "github": "https://github.com/jainvatsal77",
-      "email": "jainvatsal1137@gmail.com",
-      "commits": 0
-    }
-  ],
-  "Enigmas": [
-    {
-      "teamName": "Enigmas",
-      "github": "https://github.com/Panzer3232",
-      "email": "ashrianmol13@gmail.com",
-      "commits": 31
-    },
-    {
-      "teamName": "Enigmas",
-      "github": "https://github.com/pradhumnpanchal",
-      "email": "pradhumn44@gmail.com",
-      "commits": 7
-    },
-    {
-      "teamName": "Enigmas",
-      "github": "https://github.com/Rajat1999",
-      "email": "rajatgour95@gmail.com",
-      "commits": 7
     }
   ],
   "Code Injectors": [
@@ -2341,26 +2881,6 @@
       "commits": 1
     }
   ],
-  "Aficionados": [
-    {
-      "teamName": "Aficionados",
-      "github": "https://github.com/umar1997",
-      "email": "umarsalman08@gmail.com",
-      "commits": 30
-    },
-    {
-      "teamName": "Aficionados",
-      "github": "https://github.com/ArifKhan21",
-      "email": "arif.khan.jmi21@gmail.com",
-      "commits": 17
-    },
-    {
-      "teamName": "Aficionados",
-      "github": "https://github.com/tarunsaini1998",
-      "email": "",
-      "commits": 0
-    }
-  ],
   "Debug Mechanics": [
     {
       "teamName": "Debug Mechanics",
@@ -2379,6 +2899,38 @@
       "github": "https://github.com/ahujadheeraj",
       "email": "ahujadheeraj99@gmail.com",
       "commits": 2
+    }
+  ],
+  "MAAPS": [
+    {
+      "teamName": "MAAPS",
+      "github": "http://github.com/pv03158",
+      "email": "pv03158@gmail.com",
+      "commits": 30
+    },
+    {
+      "teamName": "MAAPS",
+      "github": "https://github.com/aafi786",
+      "email": "ankushk2518@gmail.com",
+      "commits": 6
+    },
+    {
+      "teamName": "MAAPS",
+      "github": "https://github.com/AkhileshPandeyji",
+      "email": "pandeyakhilesh5372@gmail.com",
+      "commits": 5
+    },
+    {
+      "teamName": "MAAPS",
+      "github": "https://github.com/somya1234",
+      "email": "ssomya352@gmail.com",
+      "commits": 3
+    },
+    {
+      "teamName": "MAAPS",
+      "github": "https://github.com/Manyabhardwaj",
+      "email": "manyabhardwaj17@gmail.com",
+      "commits": 1
     }
   ],
   "Knight coders": [
@@ -2427,6 +2979,20 @@
       "commits": 4
     }
   ],
+  "Genetix": [
+    {
+      "teamName": "Genetix",
+      "github": "https://www.github.com/princekhera90",
+      "email": "princekhera90@gmail.com",
+      "commits": 25
+    },
+    {
+      "teamName": "Genetix",
+      "github": "https://github.com/tanushreemarwah",
+      "email": "tanushreemarwah1@gmail.com",
+      "commits": 20
+    }
+  ],
   "Spec 4d": [
     {
       "teamName": "Spec 4d",
@@ -2447,6 +3013,90 @@
       "commits": 1
     }
   ],
+  "Coding Buddies": [
+    {
+      "teamName": "Coding Buddies",
+      "github": "https://github.com/gourav2824",
+      "email": "gourav2824@gmail.com",
+      "commits": 24
+    },
+    {
+      "teamName": "Coding Buddies",
+      "github": "https://github.com/MananBVP",
+      "email": "manan200998@gmail.com",
+      "commits": 10
+    },
+    {
+      "teamName": "Coding Buddies",
+      "github": "https://github.com/Akash453",
+      "email": "akashkaushal544@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Coding Buddies",
+      "github": "https://github.com/prashant789",
+      "email": "prashantdelhiscs@gmail.com",
+      "commits": 0
+    }
+  ],
+  "Eien No Koda": [
+    {
+      "teamName": "Eien No Koda",
+      "github": "https://github.com/Ayush0809",
+      "email": "ayush8.tripathi@gmail.com",
+      "commits": 20
+    },
+    {
+      "teamName": "Eien No Koda",
+      "github": "https://github.com/gargpriyam21",
+      "email": "gargpriyam21@gmail.com",
+      "commits": 13
+    },
+    {
+      "teamName": "Eien No Koda",
+      "github": "https://github.com/Enixes",
+      "email": "enixes7@gmail.com",
+      "commits": 2
+    },
+    {
+      "teamName": "Eien No Koda",
+      "github": "https://github.com/envy007",
+      "email": "navendervats@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Eien No Koda",
+      "github": "https://github.com/aloktripathy2698",
+      "email": "aloktripathy242@gmail.com",
+      "commits": 1
+    }
+  ],
+  "Convoluted Neurons": [
+    {
+      "teamName": "Convoluted Neurons",
+      "github": "https://github.com/manupillai308",
+      "email": "manupillai308@gmail.com",
+      "commits": 20
+    },
+    {
+      "teamName": "Convoluted Neurons",
+      "github": "https://github.com/loveteshh",
+      "email": "luvteshchandra@gmail.com",
+      "commits": 15
+    },
+    {
+      "teamName": "Convoluted Neurons",
+      "github": "https://github.com/Shitiz1708",
+      "email": "guptashitiz17@gmail.com",
+      "commits": 6
+    },
+    {
+      "teamName": "Convoluted Neurons",
+      "github": "https://github.com/rohitkumar1999",
+      "email": "rohit64229@gmail.com",
+      "commits": 1
+    }
+  ],
   "Technocrats": [
     {
       "teamName": "Technocrats",
@@ -2456,9 +3106,21 @@
     },
     {
       "teamName": "Technocrats",
+      "github": "https://github.com/Ayusingh97",
+      "email": "ayusingh97@gmail.com",
+      "commits": 19
+    },
+    {
+      "teamName": "Technocrats",
       "github": "https://github.com/meghna2712",
       "email": "meghnagupta2712@gmail.com",
       "commits": 8
+    },
+    {
+      "teamName": "Technocrats",
+      "github": "https://github.com/Nikita-121",
+      "email": "nikita97.jain@gmail.com",
+      "commits": 6
     },
     {
       "teamName": "Technocrats",
@@ -2488,72 +3150,6 @@
       "teamName": "Technocrats",
       "github": "https://github.com/Lakshya44",
       "email": "yash.cricket96@gmail.com",
-      "commits": 1
-    }
-  ],
-  "Eien No Koda": [
-    {
-      "teamName": "Eien No Koda",
-      "github": "https://github.com/Ayush0809",
-      "email": "ayush8.tripathi@gmail.com",
-      "commits": 20
-    },
-    {
-      "teamName": "Eien No Koda",
-      "github": "https://github.com/gargpriyam21",
-      "email": "gargpriyam21@gmail.com",
-      "commits": 13
-    },
-    {
-      "teamName": "Eien No Koda",
-      "github": "https://github.com/Enixes",
-      "email": "enixes7@gmail.com",
-      "commits": 2
-    },
-    {
-      "teamName": "Eien No Koda",
-      "github": "https://github.com/aloktripathy2698",
-      "email": "aloktripathy242@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "Eien No Koda",
-      "github": "https://github.com/envy007",
-      "email": "navendervats@gmail.com",
-      "commits": 1
-    }
-  ],
-  "Genetix": [
-    {
-      "teamName": "Genetix",
-      "github": "https://github.com/tanushreemarwah",
-      "email": "tanushreemarwah1@gmail.com",
-      "commits": 20
-    }
-  ],
-  "Convoluted Neurons": [
-    {
-      "teamName": "Convoluted Neurons",
-      "github": "https://github.com/manupillai308",
-      "email": "manupillai308@gmail.com",
-      "commits": 20
-    },
-    {
-      "teamName": "Convoluted Neurons",
-      "github": "https://github.com/loveteshh",
-      "email": "luvteshchandra@gmail.com",
-      "commits": 15
-    },
-    {
-      "teamName": "Convoluted Neurons",
-      "github": "https://github.com/Shitiz1708",
-      "email": "guptashitiz17@gmail.com",
-      "commits": 6
-    },
-    {
-      "teamName": "Convoluted Neurons",
-      "github": "https://github.com/rohitkumar1999",
-      "email": "rohit64229@gmail.com",
       "commits": 1
     }
   ],
@@ -2615,20 +3211,6 @@
       "github": "https://github.com/vigzmv",
       "email": "vigzmv@outlook.com",
       "commits": 1
-    }
-  ],
-  "Liquid": [
-    {
-      "teamName": "Liquid",
-      "github": "https://github.com/aashish31f",
-      "email": "aashish31f@gmail.com",
-      "commits": 17
-    },
-    {
-      "teamName": "Liquid",
-      "github": "https://github.com/kartikk98",
-      "email": "kartik2189@gmail.com",
-      "commits": 12
     }
   ],
   "The Coding Sorcerer": [
@@ -2700,14 +3282,14 @@
     },
     {
       "teamName": "Hackslash",
-      "github": "https://github.com/ap1690",
-      "email": "aksheyvmprabhakar@gmail.com",
+      "github": "https://github.com/Prabsimar",
+      "email": "simarsingh1112@gmail.com",
       "commits": 10
     },
     {
       "teamName": "Hackslash",
-      "github": "https://github.com/Prabsimar",
-      "email": "simarsingh1112@gmail.com",
+      "github": "https://github.com/ap1690",
+      "email": "aksheyvmprabhakar@gmail.com",
       "commits": 10
     }
   ],
@@ -2743,20 +3325,6 @@
       "commits": 1
     }
   ],
-  "A7A": [
-    {
-      "teamName": "A7A",
-      "github": "https://github.com/a7aent",
-      "email": "amritpal5699@gmail.com",
-      "commits": 13
-    },
-    {
-      "teamName": "A7A",
-      "github": "https://github.com/a7aent",
-      "email": "as808780@gmail.com",
-      "commits": 13
-    }
-  ],
   "MCS Trios": [
     {
       "teamName": "MCS Trios",
@@ -2771,6 +3339,20 @@
       "commits": 9
     }
   ],
+  "A7A": [
+    {
+      "teamName": "A7A",
+      "github": "https://github.com/a7aent",
+      "email": "as808780@gmail.com",
+      "commits": 13
+    },
+    {
+      "teamName": "A7A",
+      "github": "https://github.com/a7aent",
+      "email": "amritpal5699@gmail.com",
+      "commits": 13
+    }
+  ],
   "Invincibles": [
     {
       "teamName": "Invincibles",
@@ -2783,6 +3365,12 @@
       "github": "https://github.com/viki-user",
       "email": "rathi.vikal@gmail.com",
       "commits": 5
+    },
+    {
+      "teamName": "Invincibles",
+      "github": "https://github.com/saumyamishra5111",
+      "email": "saumya.1613091@kiet.edu",
+      "commits": 4
     }
   ],
   "Coolista": [
@@ -2813,53 +3401,27 @@
       "commits": 5
     }
   ],
-  "CodeRex": [
+  "Trojan 2.0": [
     {
-      "teamName": "CodeRex",
-      "github": "https://github.com/MuskanSr",
-      "email": "muskan.srivastava1904@gmail.com",
-      "commits": 11
-    },
-    {
-      "teamName": "CodeRex",
-      "github": "https://github.com/shi-22",
-      "email": "shivangi22.sr@gmail.com",
-      "commits": 8
-    },
-    {
-      "teamName": "CodeRex",
-      "github": "https://github.com/bhumikamanocha",
-      "email": "bhumika.manocha@gmail.com",
-      "commits": 4
-    }
-  ],
-  "Coding Buddies": [
-    {
-      "teamName": "Coding Buddies",
-      "github": "https://github.com/MananBVP",
-      "email": "manan200998@gmail.com",
+      "teamName": "Trojan 2.0",
+      "github": "https://github.com/keshav1999",
+      "email": "keshavc24@gmail.com",
       "commits": 10
     },
     {
-      "teamName": "Coding Buddies",
-      "github": "https://github.com/Akash453",
-      "email": "akashkaushal544@gmail.com",
-      "commits": 1
+      "teamName": "Trojan 2.0",
+      "github": "https://github.com/techedgaurav",
+      "email": "garora039@gmail.com",
+      "commits": 3
     },
     {
-      "teamName": "Coding Buddies",
-      "github": "https://github.com/prashant789",
-      "email": "prashantdelhiscs@gmail.com",
-      "commits": 0
+      "teamName": "Trojan 2.0",
+      "github": "https://github.com/dj373",
+      "email": "dhananjay.sachdeva@gmail.com",
+      "commits": 3
     }
   ],
   "HackSeSingle": [
-    {
-      "teamName": "HackSeSingle",
-      "github": "https://github.com/himanshua04",
-      "email": "himanshua04@gmail.com",
-      "commits": 9
-    },
     {
       "teamName": "HackSeSingle",
       "github": "https://github.com/iamPinakee",
@@ -2868,9 +3430,9 @@
     },
     {
       "teamName": "HackSeSingle",
-      "github": "https://github.com/syash5",
-      "email": "sharma.yash520@gmail.com",
-      "commits": 7
+      "github": "https://github.com/himanshua04",
+      "email": "himanshua04@gmail.com",
+      "commits": 9
     },
     {
       "teamName": "HackSeSingle",
@@ -2880,23 +3442,15 @@
     },
     {
       "teamName": "HackSeSingle",
+      "github": "https://github.com/syash5",
+      "email": "sharma.yash520@gmail.com",
+      "commits": 7
+    },
+    {
+      "teamName": "HackSeSingle",
       "github": "https://github.com/1998tushargoel",
       "email": "tushargoel1402@gmail.com",
       "commits": 3
-    }
-  ],
-  "eulers": [
-    {
-      "teamName": "eulers",
-      "github": "https://github.com/satyam0107",
-      "email": "satyam_23@yahoo.com",
-      "commits": 8
-    },
-    {
-      "teamName": "eulers",
-      "github": "https://github.com/raghav2809",
-      "email": "raghav.iitm2809@gmail.com",
-      "commits": 1
     }
   ],
   "Techies": [
@@ -2920,35 +3474,29 @@
     },
     {
       "teamName": "Techies",
-      "github": "https://github.com/ArunNawani",
-      "email": "arun1807@gmail.com",
+      "github": "https://github.com/mohitmittal51",
+      "email": "mmittal5100@gmail.com",
       "commits": 1
     },
     {
       "teamName": "Techies",
-      "github": "https://github.com/mohitmittal51",
-      "email": "mmittal5100@gmail.com",
+      "github": "https://github.com/ArunNawani",
+      "email": "arun1807@gmail.com",
       "commits": 1
     }
   ],
-  "CheckMAIT": [
+  "eulers": [
     {
-      "teamName": "CheckMAIT",
-      "github": "https://github.com/mayank1729",
-      "email": "mbansal063@gmail.com",
-      "commits": 7
+      "teamName": "eulers",
+      "github": "https://github.com/satyam0107",
+      "email": "satyam_23@yahoo.com",
+      "commits": 8
     },
     {
-      "teamName": "CheckMAIT",
-      "github": "https://github.com/jeevesh17",
-      "email": "jeeveshpasrija97@gmail.com",
-      "commits": 4
-    },
-    {
-      "teamName": "CheckMAIT",
-      "github": "https://github.com/yogeshmunjal978",
-      "email": "yogeshmunjal978@gmail.com",
-      "commits": 2
+      "teamName": "eulers",
+      "github": "https://github.com/raghav2809",
+      "email": "raghav.iitm2809@gmail.com",
+      "commits": 1
     }
   ],
   "9TH BIT": [
@@ -2960,6 +3508,12 @@
     },
     {
       "teamName": "9TH BIT",
+      "github": "https://github.com/DhruvA99",
+      "email": "dhruvarora9931@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "9TH BIT",
       "github": "https://github.com/ashitmehta",
       "email": "ashitmehta1999@gmail.com",
       "commits": 1
@@ -2968,12 +3522,6 @@
       "teamName": "9TH BIT",
       "github": "https://github.com/bansalnaman15",
       "email": "bansalnaman15@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "9TH BIT",
-      "github": "https://github.com/DhruvA99",
-      "email": "dhruvarora9931@gmail.com",
       "commits": 1
     },
     {
@@ -2997,227 +3545,39 @@
       "commits": 1
     }
   ],
-  "jai mata di": [
+  "CheckMAIT": [
     {
-      "teamName": "jai mata di",
-      "github": "https://github.com/bhav-z",
-      "email": "bhavika17036@iiitd.ac.in",
-      "commits": 6
-    }
-  ],
-  "SKYAM": [
-    {
-      "teamName": "SKYAM",
-      "github": "https://github.com/keshavchandak",
-      "email": "kc339@snu.edu.in",
-      "commits": 6
-    }
-  ],
-  "Coco": [
-    {
-      "teamName": "Coco",
-      "github": "https://github.com/namannice",
-      "email": "rajatkohli955@gmail.com",
-      "commits": 6
+      "teamName": "CheckMAIT",
+      "github": "https://github.com/mayank1729",
+      "email": "mbansal063@gmail.com",
+      "commits": 7
     },
     {
-      "teamName": "Coco",
-      "github": "https://github.com/namannice",
-      "email": "namangoyal.1998@gmail.com",
-      "commits": 6
-    }
-  ],
-  "Tech Squad": [
-    {
-      "teamName": "Tech Squad",
-      "github": "https://github.com/v-sinha9004",
-      "email": "vishalsinha15456@gmail.com",
-      "commits": 6
-    },
-    {
-      "teamName": "Tech Squad",
-      "github": "https://github.com/GAGAN-TZUYU",
-      "email": "Gagansingh2016iit@gmail.com",
+      "teamName": "CheckMAIT",
+      "github": "https://github.com/jeevesh17",
+      "email": "jeeveshpasrija97@gmail.com",
       "commits": 4
     },
     {
-      "teamName": "Tech Squad",
-      "github": "https://github.com/utkarshtriv",
-      "email": "Utkarsh896041@gmail.com",
+      "teamName": "CheckMAIT",
+      "github": "https://github.com/yogeshmunjal978",
+      "email": "yogeshmunjal978@gmail.com",
       "commits": 2
-    }
-  ],
-  "Send IT!": [
-    {
-      "teamName": "Send IT!",
-      "github": "https://github.com/clally1",
-      "email": "ghuang3@babson.edu",
-      "commits": 6
     },
     {
-      "teamName": "Send IT!",
-      "github": "https://github.com/clally1",
-      "email": "clally1@babson.edu",
-      "commits": 6
-    }
-  ],
-  "Unpluggers": [
-    {
-      "teamName": "Unpluggers",
-      "github": "https://github.com/rehrajsingh",
-      "email": "dikshawalia41@gmail.com",
-      "commits": 5
-    }
-  ],
-  "EagleGang": [
-    {
-      "teamName": "EagleGang",
-      "github": "https://github.com/amitkumar47",
-      "email": "amits4787@gmail.com",
-      "commits": 4
-    },
-    {
-      "teamName": "EagleGang",
-      "github": "https://github.com/nishantsanu",
-      "email": "nkumarnet40@gmail.com",
-      "commits": 3
-    }
-  ],
-  "Team123": [
-    {
-      "teamName": "Team123",
-      "github": "https://github.com/PushpneetSingh",
-      "email": "gurnoor3pushpneet3@gmail.com",
-      "commits": 4
-    }
-  ],
-  "C-enthus": [
-    {
-      "teamName": "C-enthus",
-      "github": "https://github.com/Shubhani-Pandey",
-      "email": "shubhanip1999@gmail.com",
-      "commits": 4
-    },
-    {
-      "teamName": "C-enthus",
-      "github": "https://github.com/aditya1399",
-      "email": "mohitred3@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "C-enthus",
-      "github": "https://github.com/Saatvikbharija",
-      "email": "saatvikbharija1999august@gmail.com",
-      "commits": 1
-    }
-  ],
-  "Codiyapa": [
-    {
-      "teamName": "Codiyapa",
-      "github": "https://github.com/Vaibhav-puri",
-      "email": "vaibhavpuri20@gmail.com",
-      "commits": 4
-    },
-    {
-      "teamName": "Codiyapa",
-      "github": "https://github.com/garvitchugh98",
-      "email": "garvitchugh98@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "Codiyapa",
-      "github": "https://github.com/anmolbajaj13",
-      "email": "anmolbajaj0213@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "Codiyapa",
-      "github": "https://github.com/Simerpreet-Singh",
-      "email": "simerpreetchawla@gmail.com",
-      "commits": 1
-    }
-  ],
-  "Hack O' Holics": [
-    {
-      "teamName": "Hack O' Holics",
-      "github": "https://github.com/PushkarGoel",
-      "email": "pushkar.goel98@gmail.com",
-      "commits": 3
-    },
-    {
-      "teamName": "Hack O' Holics",
-      "github": "https://github.com/bhavya-15",
-      "email": "bhavya.grover15@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "Hack O' Holics",
-      "github": "https://github.com/nikita1997",
-      "email": "nikitagoel.niki@gmail.com",
-      "commits": 0
-    }
-  ],
-  "Trojan 2.0": [
-    {
-      "teamName": "Trojan 2.0",
-      "github": "https://github.com/techedgaurav",
-      "email": "garora039@gmail.com",
-      "commits": 3
-    },
-    {
-      "teamName": "Trojan 2.0",
-      "github": "https://github.com/dj373",
-      "email": "dhananjay.sachdeva@gmail.com",
-      "commits": 3
-    }
-  ],
-  "Sensation": [
-    {
-      "teamName": "Sensation",
-      "github": "https://github.com/mohitgoyal18",
-      "email": "mohitgoyal327@gmail.com",
-      "commits": 3
-    },
-    {
-      "teamName": "Sensation",
-      "github": "https://github.com/chahalaman123",
-      "email": "chahalaman174@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "Sensation",
-      "github": "https://github.com/Shubhkumar",
-      "email": "Shubhamkr.1307@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "Sensation",
-      "github": "https://github.com/raj-jat",
-      "email": "rajat3014@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "Sensation",
-      "github": "https://github.com/shankygupta0712",
-      "email": "Shanky.gupta0712@gmail.com",
-      "commits": 1
-    }
-  ],
-  "Access Denied": [
-    {
-      "teamName": "Access Denied",
-      "github": "https://github.com/Anmolrajput05",
-      "email": "anmolrajput05@gmail.com",
-      "commits": 3
-    },
-    {
-      "teamName": "Access Denied",
-      "github": "https://github.com/gaurangjindal",
-      "email": "gaurangjindal15@gmail.com",
+      "teamName": "CheckMAIT",
+      "github": "http://www.github.com/nayanchaturvedi",
+      "email": "nayanchaturvedi16@gmail.com",
       "commits": 1
     }
   ],
   "Zabalabadubb": [
+    {
+      "teamName": "Zabalabadubb",
+      "github": "https://www.github.com/jsbhalla1562k",
+      "email": "jsbhalla1562k@gmail.com",
+      "commits": 6
+    },
     {
       "teamName": "Zabalabadubb",
       "github": "https://github.com/codeoftherings",
@@ -3237,83 +3597,17 @@
       "commits": 1
     }
   ],
-  "Indentation": [
-    {
-      "teamName": "Indentation",
-      "github": "https://github.com/ashsxn",
-      "email": "ashishsxn96@gmail.com",
-      "commits": 3
-    }
-  ],
-  "Appvengers": [
-    {
-      "teamName": "Appvengers",
-      "github": "https://github.com/smiti-123",
-      "email": "khuranasmiti700@gmail.com",
-      "commits": 2
-    }
-  ],
-  "Techons": [
-    {
-      "teamName": "Techons",
-      "github": "https://github.com/pradeep1500raj",
-      "email": "pradeep1500raj@gmail.com",
-      "commits": 2
-    },
-    {
-      "teamName": "Techons",
-      "github": "https://github.com/pradeep1500raj",
-      "email": "abics2608@gmail.com",
-      "commits": 2
-    },
-    {
-      "teamName": "Techons",
-      "github": "https://github.com/pradeep1500raj",
-      "email": 7550260648,
-      "commits": 2
-    }
-  ],
-  "Gmd": [
-    {
-      "teamName": "Gmd",
-      "github": "https://github.com/arvind0499",
-      "email": "kumararvindrajput@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "Gmd",
-      "github": "https://github.com/kritikaarora1067",
-      "email": "kritikaarora1067@gmail.com",
-      "commits": 1
-    }
-  ],
-  "Soda brothers": [
-    {
-      "teamName": "Soda brothers",
-      "github": "https://github.com/gautamchawlacr7",
-      "email": "gautamchawla1999@gmail.com",
-      "commits": 1
-    }
-  ],
-  "Trojans": [
-    {
-      "teamName": "Trojans",
-      "github": "https://github.com/ritika1899",
-      "email": "rj.ritika91@gmail.com",
-      "commits": 1
-    },
-    {
-      "teamName": "Trojans",
-      "github": "https://github.com/aggarwalprateek72",
-      "email": "aggarwalprateek72@gmail.com",
-      "commits": 1
-    }
-  ],
   "HackBuzz": [
     {
       "teamName": "HackBuzz",
-      "github": "https://github.com/DeepanshiD",
-      "email": "deepanshi.1224@gmail.com",
+      "github": "https://github.com/MraVariable",
+      "email": "mrvariable108@gmail.com",
+      "commits": 6
+    },
+    {
+      "teamName": "HackBuzz",
+      "github": "https://github.com/jainyashika",
+      "email": "yashikajain1999@gmail.com",
       "commits": 1
     },
     {
@@ -3324,16 +3618,362 @@
     },
     {
       "teamName": "HackBuzz",
-      "github": "https://github.com/jainyashika",
-      "email": "yashikajain1999@gmail.com",
+      "github": "https://github.com/DeepanshiD",
+      "email": "deepanshi.1224@gmail.com",
       "commits": 1
     }
   ],
-  "Dracarys": [
+  "Send IT!": [
     {
-      "teamName": "Dracarys",
-      "github": "https://github.com/abhinav2804",
-      "email": "abhinavk2804@gmail.com",
+      "teamName": "Send IT!",
+      "github": "https://github.com/clally1",
+      "email": "ghuang3@babson.edu",
+      "commits": 6
+    },
+    {
+      "teamName": "Send IT!",
+      "github": "https://github.com/clally1",
+      "email": "clally1@babson.edu",
+      "commits": 6
+    }
+  ],
+  "jai mata di": [
+    {
+      "teamName": "jai mata di",
+      "github": "https://github.com/bhav-z",
+      "email": "bhavika17036@iiitd.ac.in",
+      "commits": 6
+    }
+  ],
+  "Coco": [
+    {
+      "teamName": "Coco",
+      "github": "https://github.com/namannice",
+      "email": "rajatkohli955@gmail.com",
+      "commits": 6
+    },
+    {
+      "teamName": "Coco",
+      "github": "https://github.com/namannice",
+      "email": "namangoyal.1998@gmail.com",
+      "commits": 6
+    }
+  ],
+  "golden duo": [
+    {
+      "teamName": "golden duo",
+      "github": "https://github.com/BigPapaDragon",
+      "email": "yashsd@gmail.com",
+      "commits": 5
+    },
+    {
+      "teamName": "golden duo",
+      "github": "https://github.com/BigPapaDragon",
+      "email": "aakritivadehra@gmail.com",
+      "commits": 5
+    }
+  ],
+  "Unpluggers": [
+    {
+      "teamName": "Unpluggers",
+      "github": "https://github.com/rehrajsingh",
+      "email": "dikshawalia41@gmail.com",
+      "commits": 5
+    }
+  ],
+  "Gmd": [
+    {
+      "teamName": "Gmd",
+      "github": "http://www.github.com/rahulwayup",
+      "email": "rahulgupta20636851@gmail.com",
+      "commits": 5
+    },
+    {
+      "teamName": "Gmd",
+      "github": "http://github.com/itsanshulgarg",
+      "email": "04anshulgarg@gmail.com",
+      "commits": 4
+    },
+    {
+      "teamName": "Gmd",
+      "github": "https://github.com/kritikaarora1067",
+      "email": "kritikaarora1067@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Gmd",
+      "github": "https://github.com/HarsheetKakar",
+      "email": "harsheetkakar@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Gmd",
+      "github": "https://github.com/arvind0499",
+      "email": "kumararvindrajput@gmail.com",
+      "commits": 1
+    }
+  ],
+  "Codiyapa": [
+    {
+      "teamName": "Codiyapa",
+      "github": "https://github.com/Vaibhav-puri",
+      "email": "vaibhavpuri20@gmail.com",
+      "commits": 4
+    },
+    {
+      "teamName": "Codiyapa",
+      "github": "https://github.com/garvitchugh98",
+      "email": "garvitchugh98@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Codiyapa",
+      "github": "https://github.com/Simerpreet-Singh",
+      "email": "simerpreetchawla@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Codiyapa",
+      "github": "https://github.com/anmolbajaj13",
+      "email": "anmolbajaj0213@gmail.com",
+      "commits": 1
+    }
+  ],
+  "C-enthus": [
+    {
+      "teamName": "C-enthus",
+      "github": "https://github.com/Shubhani-Pandey",
+      "email": "shubhanip1999@gmail.com",
+      "commits": 4
+    },
+    {
+      "teamName": "C-enthus",
+      "github": "https://github.com/aditya1399",
+      "email": "mohitred3@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "C-enthus",
+      "github": "https://github.com/aditya1399",
+      "email": "adityadogra9@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "C-enthus",
+      "github": "https://github.com/Saatvikbharija",
+      "email": "saatvikbharija1999august@gmail.com",
+      "commits": 1
+    }
+  ],
+  "EagleGang": [
+    {
+      "teamName": "EagleGang",
+      "github": "https://github.com/amitkumar47",
+      "email": "amits4787@gmail.com",
+      "commits": 4
+    },
+    {
+      "teamName": "EagleGang",
+      "github": "https://github.com/nishantsanu",
+      "email": "nkumarnet40@gmail.com",
+      "commits": 3
+    },
+    {
+      "teamName": "EagleGang",
+      "github": "https://github.com/shivangitripathi2712",
+      "email": "tripathishivangi6658@gmail.com",
+      "commits": 2
+    }
+  ],
+  "Team123": [
+    {
+      "teamName": "Team123",
+      "github": "https://github.com/PushpneetSingh",
+      "email": "gurnoor3pushpneet3@gmail.com",
+      "commits": 4
+    }
+  ],
+  "Hack O' Holics": [
+    {
+      "teamName": "Hack O' Holics",
+      "github": "https://github.com/aaror",
+      "email": "anujarora091@gmail.com",
+      "commits": 3
+    },
+    {
+      "teamName": "Hack O' Holics",
+      "github": "https://github.com/PushkarGoel",
+      "email": "pushkar.goel98@gmail.com",
+      "commits": 3
+    },
+    {
+      "teamName": "Hack O' Holics",
+      "github": "https://github.com/Deepankgrover",
+      "email": "deepank.grover@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Hack O' Holics",
+      "github": "https://github.com/bhavya-15",
+      "email": "bhavya.grover15@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Hack O' Holics",
+      "github": "https://github.com/nikita1997",
+      "email": "nikitagoel.niki@gmail.com",
+      "commits": 0
+    }
+  ],
+  "Indentation": [
+    {
+      "teamName": "Indentation",
+      "github": "https://github.com/ashsxn",
+      "email": "ashishsxn96@gmail.com",
+      "commits": 3
+    }
+  ],
+  "The CodeFellas": [
+    {
+      "teamName": "The CodeFellas",
+      "github": "https://github.com/AceZ-072",
+      "email": "gulatisidharth107@gmail.com",
+      "commits": 3
+    },
+    {
+      "teamName": "The CodeFellas",
+      "github": "https://github.com/hardiktaneja/",
+      "email": "hardik.taneja700@gmail.com",
+      "commits": 3
+    }
+  ],
+  "Sensation": [
+    {
+      "teamName": "Sensation",
+      "github": "https://github.com/mohitgoyal18",
+      "email": "mohitgoyal327@gmail.com",
+      "commits": 3
+    },
+    {
+      "teamName": "Sensation",
+      "github": "https://github.com/shankygupta0712",
+      "email": "Shanky.gupta0712@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Sensation",
+      "github": "https://github.com/raj-jat",
+      "email": "rajat3014@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Sensation",
+      "github": "https://github.com/Shubhkumar",
+      "email": "Shubhamkr.1307@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Sensation",
+      "github": "https://github.com/chahalaman123",
+      "email": "chahalaman174@gmail.com",
+      "commits": 1
+    }
+  ],
+  "Access Denied": [
+    {
+      "teamName": "Access Denied",
+      "github": "https://github.com/Anmolrajput05",
+      "email": "anmolrajput05@gmail.com",
+      "commits": 3
+    },
+    {
+      "teamName": "Access Denied",
+      "github": "https://github.com/gaurangjindal",
+      "email": "gaurangjindal15@gmail.com",
+      "commits": 1
+    }
+  ],
+  "Techons": [
+    {
+      "teamName": "Techons",
+      "github": "https://github.com/pradeep1500raj",
+      "email": "abics2608@gmail.com",
+      "commits": 2
+    },
+    {
+      "teamName": "Techons",
+      "github": "https://github.com/pradeep1500raj",
+      "email": "pradeep1500raj@gmail.com",
+      "commits": 2
+    },
+    {
+      "teamName": "Techons",
+      "github": "https://github.com/pradeep1500raj",
+      "email": 7550260648,
+      "commits": 2
+    }
+  ],
+  "TeamRAVS": [
+    {
+      "teamName": "TeamRAVS",
+      "github": "https://github.com/Ashlazy",
+      "email": "cashubvpnss@gmail.com",
+      "commits": 2
+    },
+    {
+      "teamName": "TeamRAVS",
+      "github": "https://github.com/viveksingh18",
+      "email": "vsv1808vsv@gmail.com",
+      "commits": 1
+    }
+  ],
+  "Soda brothers": [
+    {
+      "teamName": "Soda brothers",
+      "github": "https://www.github.com/paragdudeja",
+      "email": "parag1907@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Soda brothers",
+      "github": "https://github.com/gautamchawlacr7",
+      "email": "gautamchawla1999@gmail.com",
+      "commits": 1
+    }
+  ],
+  "Trojans": [
+    {
+      "teamName": "Trojans",
+      "github": "https://github.com/aggarwalprateek72",
+      "email": "aggarwalprateek72@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Trojans",
+      "github": "https://github.com/ritika1899",
+      "email": "rj.ritika91@gmail.com",
+      "commits": 1
+    }
+  ],
+  "Hermanos": [
+    {
+      "teamName": "Hermanos",
+      "github": "https://github.com/sahil9310",
+      "email": "aknegi021@gmail.com",
+      "commits": 1
+    },
+    {
+      "teamName": "Hermanos",
+      "github": "https://github.com/sahil9310",
+      "email": "Tarun0510bisht@gmail.com",
+      "commits": 1
+    }
+  ],
+  "Estrogen": [
+    {
+      "teamName": "Estrogen",
+      "github": "https://github.com/shubbassoni",
+      "email": "shubhankar.soni@yahoo.com",
       "commits": 0
     }
   ],
@@ -3345,19 +3985,11 @@
       "commits": 0
     }
   ],
-  "Estrogen": [
+  "TechBot Karma": [
     {
-      "teamName": "Estrogen",
-      "github": "https://github.com/shubbassoni",
-      "email": "shubhankar.soni@yahoo.com",
-      "commits": 0
-    }
-  ],
-  "Pro coders": [
-    {
-      "teamName": "Pro coders",
-      "github": "https://github.com/NU28",
-      "email": "nitinkr432@gmail.com",
+      "teamName": "TechBot Karma",
+      "github": "https://github.com/nirvanasinha",
+      "email": "akshay4262@gmail.com",
       "commits": 0
     }
   ],
@@ -3369,11 +4001,11 @@
       "commits": 0
     }
   ],
-  "TechBot Karma": [
+  "Pro coders": [
     {
-      "teamName": "TechBot Karma",
-      "github": "https://github.com/nirvanasinha",
-      "email": "akshay4262@gmail.com",
+      "teamName": "Pro coders",
+      "github": "https://github.com/NU28",
+      "email": "nitinkr432@gmail.com",
       "commits": 0
     }
   ]

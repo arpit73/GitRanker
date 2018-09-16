@@ -57,7 +57,7 @@ const getAuthor = data => {
                 Team.github = handle.id;
                 //console.log(Team);
                 commitLogs.push(Team);
-                fs.appendFileSync(
+                await fs.appendFileSync(
                     'data.json',
                     JSON.stringify(Team, null, 2) + ',',
                     'utf-8'
